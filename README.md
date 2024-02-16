@@ -2,7 +2,7 @@
 
 Certificate of completion - https://www.coursera.org/account/accomplishments/professional-cert/YDLJ94MFQ42C
 
-This repository contains all the labs, annotated notebooks, visualizations, and capstone project for the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program. Each folder holds all the work for each of these courses as well as the certificate awarded after completion.
+This repository contains labs, annotated notebooks, and capstone project for the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program. Each folder holds all the work for each of these courses as well as the certificate awarded after completion.
 
 The program is offered through a seven-course series which offers a comprehensive curriculum towards specific aspects of data analytics. These courses are:
 
