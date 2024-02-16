@@ -2,18 +2,14 @@
 
 Certificate of completion - https://www.coursera.org/account/accomplishments/professional-cert/YDLJ94MFQ42C
 
-The [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) contains information on how to use machine learning, predictive modeling, and experimental design to collect and analyze large amounts of data, and prepare for jobs like Senior Data Analyst and Junior Data Scientist.
+This repository contains all the labs, annotated notebooks, visualizations, and capstone project for the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program. Each folder holds all the work for each of these courses as well as the certificate awarded after completion.
 
-Get professional training designed by Google and take the next step in your career with advanced data analytics skills. There are over 144,000 open jobs in advanced data analytics and the median salary for entry-level roles is $118,000.<sup>1</sup> 
+The program is offered through a seven-course series which offers a comprehensive curriculum towards specific aspects of data analytics. These courses are:
 
-Advanced data professionals are responsible for collecting, analyzing, and interpreting extremely large amounts of data. These jobs require manipulating large data sets and using advanced analytics including machine learning, predictive modeling, and experimental design. 
-
-This certificate builds on your data analytics skills and experience to take your career to the next level. It's designed for graduates of the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) or people with equivalent data analytics experience. Expand your knowledge with practical, hands-on projects, featuring Jupyter Notebook, Python, and Tableau.
-
-After seven courses, you’ll be prepared for jobs like senior data analyst, junior data scientist, data science analyst, and more. At under 10 hours a week, the certificate program can be completed in less than six months. Upon completion, you can apply for jobs with Google and over 150 U.S. employers, including Deloitte, Target, and Verizon.
-
-75% of certificate graduates report a positive career outcome (e.g., new job, promo or raise) within six months of completion.<sup>2</sup>
-
-<sup>1</sup>Lightcast™ US Job Postings (Last 12 Months: 1/1/2022 – 12/31/2022) 
-
-<sup>2</sup>Based on program graduate survey, United States 2022
+1. [Foundations of Data Science](https://www.coursera.org/learn/foundations-of-data-science?specialization=google-advanced-data-analytics)
+2. [Get Started with Python](https://www.coursera.org/learn/get-started-with-python?specialization=google-advanced-data-analytics)
+3. [Go Beyond Numbers: Translate Data into Insights](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight?specialization=google-advanced-data-analytics)
+4. [The Power of Statistics](https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics)
+5. [Regression Analysis: Simplfy Complex Data Relationships](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships?specialization=google-advanced-data-analytics)
+6. [The Nuts and Bolts of Machine Learning](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning?specialization=google-advanced-data-analytics)
+7. [Google Advanced Data Analytics Capstone](https://www.coursera.org/learn/google-advanced-data-analytics-capstone?specialization=google-advanced-data-analytics)
