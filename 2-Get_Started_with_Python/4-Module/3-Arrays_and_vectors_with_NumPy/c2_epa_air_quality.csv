@@ -1,0 +1,1726 @@
+state_code,state_name,county_code,county_name,aqi,state_code_int,county_code_int
+04,Arizona,013,Maricopa,18.0,4,13
+04,Arizona,013,Maricopa,9.0,4,13
+04,Arizona,019,Pima,20.0,4,19
+06,California,001,Alameda,11.0,6,1
+06,California,007,Butte,6.0,6,7
+06,California,019,Fresno,11.0,6,19
+06,California,029,Kern,7.0,6,29
+06,California,029,Kern,3.0,6,29
+06,California,029,Kern,7.0,6,29
+06,California,037,Los Angeles,13.0,6,37
+06,California,037,Los Angeles,18.0,6,37
+06,California,051,Mono,5.0,6,51
+06,California,067,Sacramento,35.0,6,67
+06,California,071,San Bernardino,18.0,6,71
+06,California,073,San Diego,23.0,6,73
+06,California,083,Santa Barbara,0.0,6,83
+06,California,089,Shasta,11.0,6,89
+08,Colorado,041,El Paso,9.0,8,41
+12,Florida,031,Duval,15.0,12,31
+12,Florida,031,Duval,13.0,12,31
+12,Florida,057,Hillsborough,19.0,12,57
+15,Hawaii,003,Honolulu,10.0,15,3
+17,Illinois,167,Sangamon,20.0,17,167
+18,Indiana,097,Marion,32.0,18,97
+21,Kentucky,101,Henderson,8.0,21,101
+21,Kentucky,111,Jefferson,6.0,21,111
+21,Kentucky,145,McCracken,13.0,21,145
+21,Kentucky,145,McCracken,13.0,21,145
+22,Louisiana,033,East Baton Rouge,5.0,22,33
+24,Maryland,510,Baltimore (City),33.0,24,510
+25,Massachusetts,025,Suffolk,13.0,25,25
+26,Michigan,163,Wayne,19.0,26,163
+27,Minnesota,137,Saint Louis,16.0,27,137
+29,Missouri,189,Saint Louis,10.0,29,189
+34,New Jersey,003,Bergen,41.0,34,3
+34,New Jersey,023,Middlesex,17.0,34,23
+35,New Mexico,001,Bernalillo,11.0,35,1
+35,New Mexico,045,San Juan,6.0,35,45
+36,New York,061,New York,13.0,36,61
+36,New York,061,New York,24.0,36,61
+36,New York,063,Niagara,13.0,36,63
+37,North Carolina,119,Mecklenburg,28.0,37,119
+39,Ohio,049,Franklin,10.0,39,49
+39,Ohio,061,Hamilton,17.0,39,61
+40,Oklahoma,109,Oklahoma,14.0,40,109
+41,Oregon,035,Klamath,31.0,41,35
+41,Oregon,051,Multnomah,28.0,41,51
+42,Pennsylvania,049,Erie,7.0,42,49
+42,Pennsylvania,101,Philadelphia,13.0,42,101
+47,Tennessee,157,Shelby,38.0,47,157
+48,Texas,029,Bexar,22.0,48,29
+49,Utah,035,Salt Lake,19.0,49,35
+50,Vermont,007,Chittenden,18.0,50,7
+50,Vermont,007,Chittenden,20.0,50,7
+51,Virginia,059,Fairfax,39.0,51,59
+51,Virginia,710,Norfolk City,15.0,51,710
+51,Virginia,760,Richmond City,17.0,51,760
+53,Washington,033,King,55.0,53,33
+53,Washington,033,King,22.0,53,33
+53,Washington,077,Yakima,35.0,53,77
+55,Wisconsin,079,Milwaukee,10.0,55,79
+04,Arizona,013,Maricopa,56.0,4,13
+04,Arizona,019,Pima,30.0,4,19
+06,California,023,Humboldt,30.0,6,23
+06,California,023,Humboldt,11.0,6,23
+06,California,065,Riverside,18.0,6,65
+06,California,071,San Bernardino,11.0,6,71
+06,California,071,San Bernardino,22.0,6,71
+06,California,071,San Bernardino,11.0,6,71
+06,California,073,San Diego,24.0,6,73
+06,California,083,Santa Barbara,11.0,6,83
+06,California,083,Santa Barbara,7.0,6,83
+06,California,085,Santa Clara,11.0,6,85
+06,California,097,Sonoma,11.0,6,97
+06,California,099,Stanislaus,0.0,6,99
+08,Colorado,013,Boulder,28.0,8,13
+08,Colorado,041,El Paso,9.0,8,41
+08,Colorado,041,El Paso,9.0,8,41
+15,Hawaii,003,Honolulu,6.0,15,3
+17,Illinois,167,Sangamon,26.0,17,167
+18,Indiana,097,Marion,27.0,18,97
+19,Iowa,153,Polk,14.0,19,153
+20,Kansas,173,Sedgwick,16.0,20,173
+22,Louisiana,071,Orleans,5.0,22,71
+24,Maryland,001,Allegany,9.0,24,1
+24,Maryland,031,Montgomery,24.0,24,31
+26,Michigan,163,Wayne,17.0,26,163
+27,Minnesota,053,Hennepin,16.0,27,53
+29,Missouri,047,Clay,6.0,29,47
+29,Missouri,095,Jackson,3.0,29,95
+30,Montana,063,Missoula,14.0,30,63
+32,Nevada,031,Washoe,52.0,32,31
+32,Nevada,031,Washoe,8.0,32,31
+34,New Jersey,007,Camden,7.0,34,7
+35,New Mexico,045,San Juan,17.0,35,45
+35,New Mexico,045,San Juan,14.0,35,45
+36,New York,055,Monroe,18.0,36,55
+36,New York,063,Niagara,6.0,36,63
+36,New York,093,Schenectady,19.0,36,93
+39,Ohio,049,Franklin,11.0,39,49
+39,Ohio,095,Lucas,13.0,39,95
+40,Oklahoma,027,Cleveland,7.0,40,27
+40,Oklahoma,143,Tulsa,13.0,40,143
+40,Oklahoma,143,Tulsa,16.0,40,143
+42,Pennsylvania,043,Dauphin,6.0,42,43
+42,Pennsylvania,071,Lancaster,5.0,42,71
+42,Pennsylvania,101,Philadelphia,10.0,42,101
+47,Tennessee,157,Shelby,74.0,47,157
+48,Texas,029,Bexar,6.0,48,29
+48,Texas,113,Dallas,2.0,48,113
+49,Utah,011,Davis,22.0,49,11
+49,Utah,035,Salt Lake,19.0,49,35
+51,Virginia,059,Fairfax,15.0,51,59
+51,Virginia,510,Alexandria City,13.0,51,510
+51,Virginia,700,Newport News City,8.0,51,700
+53,Washington,033,King,44.0,53,33
+53,Washington,061,Snohomish,76.0,53,61
+53,Washington,063,Spokane,32.0,53,63
+54,West Virginia,025,Greenbrier,2.0,54,25
+55,Wisconsin,079,Milwaukee,22.0,55,79
+72,Puerto Rico,127,San Juan,35.0,72,127
+72,Puerto Rico,127,San Juan,18.0,72,127
+01,Alabama,073,Jefferson,23.0,1,73
+04,Arizona,013,Maricopa,66.0,4,13
+04,Arizona,013,Maricopa,14.0,4,13
+04,Arizona,013,Maricopa,60.0,4,13
+04,Arizona,019,Pima,20.0,4,19
+04,Arizona,019,Pima,36.0,4,19
+06,California,007,Butte,9.0,6,7
+06,California,029,Kern,19.0,6,29
+06,California,037,Los Angeles,23.0,6,37
+06,California,037,Los Angeles,33.0,6,37
+06,California,037,Los Angeles,10.0,6,37
+06,California,053,Monterey,16.0,6,53
+06,California,061,Placer,13.0,6,61
+06,California,083,Santa Barbara,47.0,6,83
+06,California,083,Santa Barbara,0.0,6,83
+06,California,085,Santa Clara,6.0,6,85
+06,California,107,Tulare,11.0,6,107
+08,Colorado,041,El Paso,25.0,8,41
+08,Colorado,041,El Paso,7.0,8,41
+08,Colorado,041,El Paso,10.0,8,41
+08,Colorado,041,El Paso,8.0,8,41
+11,District Of Columbia,001,District of Columbia,22.0,11,1
+12,Florida,011,Broward,17.0,12,11
+12,Florida,011,Broward,24.0,12,11
+12,Florida,011,Broward,15.0,12,11
+12,Florida,057,Hillsborough,13.0,12,57
+13,Georgia,089,DeKalb,8.0,13,89
+17,Illinois,167,Sangamon,16.0,17,167
+18,Indiana,141,St. Joseph,9.0,18,141
+18,Indiana,163,Vanderburgh,15.0,18,163
+25,Massachusetts,025,Suffolk,23.0,25,25
+26,Michigan,099,Macomb,31.0,26,99
+27,Minnesota,123,Ramsey,20.0,27,123
+31,Nebraska,055,Douglas,28.0,31,55
+32,Nevada,003,Clark,13.0,32,3
+34,New Jersey,001,Atlantic,26.0,34,1
+34,New Jersey,003,Bergen,11.0,34,3
+35,New Mexico,001,Bernalillo,13.0,35,1
+36,New York,059,Nassau,7.0,36,59
+36,New York,063,Niagara,9.0,36,63
+37,North Carolina,119,Mecklenburg,11.0,37,119
+42,Pennsylvania,011,Berks,19.0,42,11
+42,Pennsylvania,011,Berks,16.0,42,11
+42,Pennsylvania,049,Erie,18.0,42,49
+42,Pennsylvania,069,Lackawanna,5.0,42,69
+42,Pennsylvania,101,Philadelphia,13.0,42,101
+42,Pennsylvania,125,Washington,9.0,42,125
+48,Texas,141,El Paso,47.0,48,141
+49,Utah,035,Salt Lake,31.0,49,35
+49,Utah,049,Utah,42.0,49,49
+49,Utah,049,Utah,15.0,49,49
+53,Washington,077,Yakima,58.0,53,77
+53,Washington,077,Yakima,57.0,53,77
+55,Wisconsin,079,Milwaukee,14.0,55,79
+55,Wisconsin,079,Milwaukee,9.0,55,79
+55,Wisconsin,101,Racine,35.0,55,101
+72,Puerto Rico,127,San Juan,28.0,72,127
+80,Country Of Mexico,006,CHIHUAHUA STATE,45.0,80,6
+04,Arizona,013,Maricopa,8.0,4,13
+04,Arizona,013,Maricopa,18.0,4,13
+04,Arizona,019,Pima,16.0,4,19
+04,Arizona,019,Pima,30.0,4,19
+04,Arizona,019,Pima,5.0,4,19
+06,California,001,Alameda,11.0,6,1
+06,California,013,Contra Costa,15.0,6,13
+06,California,017,El Dorado,16.0,6,17
+06,California,019,Fresno,5.0,6,19
+06,California,045,Mendocino,0.0,6,45
+06,California,065,Riverside,13.0,6,65
+06,California,065,Riverside,40.0,6,65
+06,California,073,San Diego,10.0,6,73
+06,California,095,Solano,3.0,6,95
+08,Colorado,005,Arapahoe,15.0,8,5
+08,Colorado,031,Denver,28.0,8,31
+08,Colorado,069,Larimer,5.0,8,69
+08,Colorado,069,Larimer,6.0,8,69
+09,Connecticut,001,Fairfield,24.0,9,1
+12,Florida,011,Broward,5.0,12,11
+12,Florida,031,Duval,13.0,12,31
+12,Florida,031,Duval,16.0,12,31
+12,Florida,086,Miami-Dade,43.0,12,86
+15,Hawaii,003,Honolulu,5.0,15,3
+15,Hawaii,003,Honolulu,7.0,15,3
+17,Illinois,167,Sangamon,14.0,17,167
+19,Iowa,153,Polk,18.0,19,153
+21,Kentucky,111,Jefferson,15.0,21,111
+21,Kentucky,145,McCracken,8.0,21,145
+24,Maryland,033,Prince George's,3.0,24,33
+25,Massachusetts,013,Hampden,19.0,25,13
+26,Michigan,077,Kalamazoo,6.0,26,77
+26,Michigan,077,Kalamazoo,6.0,26,77
+27,Minnesota,053,Hennepin,32.0,27,53
+32,Nevada,031,Washoe,13.0,32,31
+34,New Jersey,017,Hudson,32.0,34,17
+34,New Jersey,023,Middlesex,20.0,34,23
+34,New Jersey,039,Union,16.0,34,39
+36,New York,047,Kings,48.0,36,47
+37,North Carolina,067,Forsyth,18.0,37,67
+37,North Carolina,067,Forsyth,23.0,37,67
+39,Ohio,035,Cuyahoga,36.0,39,35
+39,Ohio,035,Cuyahoga,31.0,39,35
+39,Ohio,035,Cuyahoga,11.0,39,35
+39,Ohio,099,Mahoning,2.0,39,99
+41,Oregon,029,Jackson,51.0,41,29
+41,Oregon,039,Lane,32.0,41,39
+42,Pennsylvania,003,Allegheny,5.0,42,3
+42,Pennsylvania,079,Luzerne,11.0,42,79
+47,Tennessee,093,Knox,27.0,47,93
+47,Tennessee,157,Shelby,7.0,47,157
+48,Texas,029,Bexar,34.0,48,29
+48,Texas,029,Bexar,18.0,48,29
+48,Texas,113,Dallas,25.0,48,113
+48,Texas,141,El Paso,7.0,48,141
+48,Texas,141,El Paso,18.0,48,141
+48,Texas,201,Harris,14.0,48,201
+49,Utah,035,Salt Lake,20.0,49,35
+49,Utah,049,Utah,23.0,49,49
+51,Virginia,013,Arlington,16.0,51,13
+51,Virginia,710,Norfolk City,6.0,51,710
+54,West Virginia,039,Kanawha,8.0,54,39
+01,Alabama,073,Jefferson,5.0,1,73
+04,Arizona,019,Pima,13.0,4,19
+04,Arizona,019,Pima,11.0,4,19
+04,Arizona,019,Pima,5.0,4,19
+06,California,001,Alameda,11.0,6,1
+06,California,007,Butte,14.0,6,7
+06,California,017,El Dorado,8.0,6,17
+06,California,017,El Dorado,6.0,6,17
+06,California,019,Fresno,35.0,6,19
+06,California,037,Los Angeles,38.0,6,37
+06,California,037,Los Angeles,22.0,6,37
+06,California,037,Los Angeles,93.0,6,37
+06,California,037,Los Angeles,10.0,6,37
+06,California,037,Los Angeles,11.0,6,37
+06,California,061,Placer,6.0,6,61
+06,California,065,Riverside,43.0,6,65
+06,California,071,San Bernardino,5.0,6,71
+06,California,073,San Diego,16.0,6,73
+06,California,073,San Diego,7.0,6,73
+06,California,079,San Luis Obispo,13.0,6,79
+06,California,085,Santa Clara,10.0,6,85
+06,California,111,Ventura,7.0,6,111
+08,Colorado,013,Boulder,11.0,8,13
+08,Colorado,041,El Paso,31.0,8,41
+08,Colorado,041,El Paso,23.0,8,41
+08,Colorado,041,El Paso,9.0,8,41
+08,Colorado,077,Mesa,20.0,8,77
+09,Connecticut,001,Fairfield,24.0,9,1
+12,Florida,011,Broward,8.0,12,11
+12,Florida,031,Duval,11.0,12,31
+12,Florida,031,Duval,18.0,12,31
+12,Florida,057,Hillsborough,15.0,12,57
+12,Florida,057,Hillsborough,17.0,12,57
+12,Florida,095,Orange,9.0,12,95
+12,Florida,099,Palm Beach,18.0,12,99
+12,Florida,103,Pinellas,7.0,12,103
+12,Florida,115,Sarasota,7.0,12,115
+15,Hawaii,003,Honolulu,7.0,15,3
+17,Illinois,031,Cook,9.0,17,31
+18,Indiana,141,St. Joseph,17.0,18,141
+20,Kansas,173,Sedgwick,9.0,20,173
+24,Maryland,005,Baltimore,15.0,24,5
+26,Michigan,163,Wayne,7.0,26,163
+29,Missouri,510,St. Louis City,6.0,29,510
+30,Montana,063,Missoula,19.0,30,63
+31,Nebraska,055,Douglas,8.0,31,55
+31,Nebraska,109,Lancaster,23.0,31,109
+34,New Jersey,005,Burlington,45.0,34,5
+34,New Jersey,007,Camden,18.0,34,7
+34,New Jersey,027,Morris,17.0,34,27
+35,New Mexico,001,Bernalillo,54.0,35,1
+35,New Mexico,001,Bernalillo,10.0,35,1
+35,New Mexico,001,Bernalillo,16.0,35,1
+36,New York,061,New York,39.0,36,61
+36,New York,063,Niagara,6.0,36,63
+37,North Carolina,067,Forsyth,8.0,37,67
+39,Ohio,035,Cuyahoga,17.0,39,35
+39,Ohio,035,Cuyahoga,14.0,39,35
+39,Ohio,035,Cuyahoga,14.0,39,35
+39,Ohio,035,Cuyahoga,13.0,39,35
+39,Ohio,153,Summit,18.0,39,153
+41,Oregon,039,Lane,9.0,41,39
+42,Pennsylvania,003,Allegheny,9.0,42,3
+42,Pennsylvania,003,Allegheny,22.0,42,3
+42,Pennsylvania,069,Lackawanna,11.0,42,69
+42,Pennsylvania,107,Schuylkill,9.0,42,107
+47,Tennessee,093,Knox,39.0,47,93
+48,Texas,141,El Paso,40.0,48,141
+48,Texas,141,El Paso,30.0,48,141
+48,Texas,201,Harris,11.0,48,201
+48,Texas,201,Harris,16.0,48,201
+48,Texas,439,Tarrant,10.0,48,439
+49,Utah,035,Salt Lake,9.0,49,35
+49,Utah,049,Utah,38.0,49,49
+49,Utah,049,Utah,16.0,49,49
+51,Virginia,059,Fairfax,47.0,51,59
+51,Virginia,059,Fairfax,9.0,51,59
+54,West Virginia,009,Brooke,6.0,54,9
+54,West Virginia,029,Hancock,5.0,54,29
+04,Arizona,013,Maricopa,33.0,4,13
+06,California,017,El Dorado,18.0,6,17
+06,California,037,Los Angeles,17.0,6,37
+06,California,037,Los Angeles,24.0,6,37
+06,California,041,Marin,8.0,6,41
+06,California,053,Monterey,7.0,6,53
+06,California,053,Monterey,1.0,6,53
+06,California,055,Napa,10.0,6,55
+06,California,061,Placer,16.0,6,61
+06,California,071,San Bernardino,6.0,6,71
+06,California,073,San Diego,6.0,6,73
+06,California,075,San Francisco,20.0,6,75
+06,California,079,San Luis Obispo,6.0,6,79
+06,California,101,Sutter,28.0,6,101
+06,California,107,Tulare,8.0,6,107
+06,California,111,Ventura,19.0,6,111
+08,Colorado,031,Denver,19.0,8,31
+08,Colorado,041,El Paso,36.0,8,41
+08,Colorado,041,El Paso,24.0,8,41
+08,Colorado,041,El Paso,5.0,8,41
+08,Colorado,041,El Paso,20.0,8,41
+09,Connecticut,001,Fairfield,10.0,9,1
+11,District Of Columbia,001,District of Columbia,7.0,11,1
+12,Florida,011,Broward,15.0,12,11
+12,Florida,011,Broward,8.0,12,11
+12,Florida,031,Duval,6.0,12,31
+12,Florida,086,Miami-Dade,7.0,12,86
+12,Florida,103,Pinellas,15.0,12,103
+13,Georgia,121,Fulton,25.0,13,121
+15,Hawaii,003,Honolulu,6.0,15,3
+17,Illinois,031,Cook,19.0,17,31
+17,Illinois,143,Peoria,40.0,17,143
+18,Indiana,003,Allen,19.0,18,3
+18,Indiana,003,Allen,9.0,18,3
+18,Indiana,141,St. Joseph,20.0,18,141
+18,Indiana,167,Vigo,14.0,18,167
+20,Kansas,181,Sherman,0.0,20,181
+21,Kentucky,111,Jefferson,7.0,21,111
+21,Kentucky,145,McCracken,6.0,21,145
+27,Minnesota,053,Hennepin,13.0,27,53
+27,Minnesota,145,Stearns,22.0,27,145
+29,Missouri,189,Saint Louis,8.0,29,189
+29,Missouri,213,Taney,9.0,29,213
+31,Nebraska,055,Douglas,50.0,31,55
+32,Nevada,005,Douglas,8.0,32,5
+32,Nevada,031,Washoe,13.0,32,31
+34,New Jersey,003,Bergen,11.0,34,3
+34,New Jersey,007,Camden,8.0,34,7
+34,New Jersey,017,Hudson,30.0,34,17
+35,New Mexico,013,Dona Ana,11.0,35,13
+35,New Mexico,043,Sandoval,6.0,35,43
+37,North Carolina,037,Chatham,5.0,37,37
+37,North Carolina,051,Cumberland,10.0,37,51
+37,North Carolina,067,Forsyth,6.0,37,67
+37,North Carolina,067,Forsyth,6.0,37,67
+37,North Carolina,119,Mecklenburg,30.0,37,119
+39,Ohio,061,Hamilton,9.0,39,61
+39,Ohio,151,Stark,13.0,39,151
+40,Oklahoma,031,Comanche,13.0,40,31
+42,Pennsylvania,003,Allegheny,8.0,42,3
+42,Pennsylvania,007,Beaver,7.0,42,7
+42,Pennsylvania,021,Cambria,23.0,42,21
+42,Pennsylvania,107,Schuylkill,6.0,42,107
+47,Tennessee,037,Davidson,18.0,47,37
+48,Texas,201,Harris,9.0,48,201
+48,Texas,201,Harris,34.0,48,201
+48,Texas,439,Tarrant,5.0,48,439
+50,Vermont,007,Chittenden,3.0,50,7
+51,Virginia,059,Fairfax,6.0,51,59
+51,Virginia,700,Newport News City,11.0,51,700
+53,Washington,033,King,45.0,53,33
+53,Washington,033,King,35.0,53,33
+53,Washington,067,Thurston,32.0,53,67
+55,Wisconsin,079,Milwaukee,2.0,55,79
+55,Wisconsin,079,Milwaukee,7.0,55,79
+80,Country Of Mexico,006,CHIHUAHUA STATE,13.0,80,6
+01,Alabama,101,Montgomery,0.0,1,101
+04,Arizona,013,Maricopa,30.0,4,13
+06,California,019,Fresno,23.0,6,19
+06,California,029,Kern,8.0,6,29
+06,California,037,Los Angeles,20.0,6,37
+06,California,053,Monterey,6.0,6,53
+06,California,059,Orange,47.0,6,59
+06,California,059,Orange,3.0,6,59
+06,California,061,Placer,10.0,6,61
+06,California,067,Sacramento,7.0,6,67
+06,California,067,Sacramento,5.0,6,67
+06,California,071,San Bernardino,2.0,6,71
+06,California,071,San Bernardino,10.0,6,71
+06,California,075,San Francisco,8.0,6,75
+06,California,077,San Joaquin,3.0,6,77
+06,California,077,San Joaquin,5.0,6,77
+06,California,085,Santa Clara,10.0,6,85
+08,Colorado,069,Larimer,16.0,8,69
+11,District Of Columbia,001,District of Columbia,22.0,11,1
+11,District Of Columbia,001,District of Columbia,13.0,11,1
+12,Florida,011,Broward,15.0,12,11
+12,Florida,031,Duval,10.0,12,31
+12,Florida,103,Pinellas,20.0,12,103
+12,Florida,115,Sarasota,36.0,12,115
+15,Hawaii,003,Honolulu,11.0,15,3
+17,Illinois,031,Cook,10.0,17,31
+17,Illinois,031,Cook,11.0,17,31
+17,Illinois,119,Madison,17.0,17,119
+17,Illinois,119,Madison,14.0,17,119
+17,Illinois,197,Will,1.0,17,197
+21,Kentucky,111,Jefferson,16.0,21,111
+21,Kentucky,117,Kenton,17.0,21,117
+22,Louisiana,033,East Baton Rouge,32.0,22,33
+22,Louisiana,033,East Baton Rouge,49.0,22,33
+29,Missouri,095,Jackson,2.0,29,95
+32,Nevada,003,Clark,15.0,32,3
+32,Nevada,031,Washoe,32.0,32,31
+34,New Jersey,023,Middlesex,25.0,34,23
+34,New Jersey,039,Union,49.0,34,39
+35,New Mexico,001,Bernalillo,6.0,35,1
+36,New York,059,Nassau,23.0,36,59
+37,North Carolina,067,Forsyth,19.0,37,67
+37,North Carolina,071,Gaston,19.0,37,71
+37,North Carolina,183,Wake,32.0,37,183
+39,Ohio,049,Franklin,13.0,39,49
+39,Ohio,085,Lake,20.0,39,85
+39,Ohio,151,Stark,10.0,39,151
+42,Pennsylvania,043,Dauphin,16.0,42,43
+42,Pennsylvania,043,Dauphin,14.0,42,43
+42,Pennsylvania,101,Philadelphia,24.0,42,101
+48,Texas,141,El Paso,40.0,48,141
+48,Texas,141,El Paso,15.0,48,141
+48,Texas,201,Harris,9.0,48,201
+48,Texas,201,Harris,11.0,48,201
+48,Texas,439,Tarrant,15.0,48,439
+48,Texas,453,Travis,11.0,48,453
+49,Utah,035,Salt Lake,13.0,49,35
+49,Utah,049,Utah,40.0,49,49
+50,Vermont,007,Chittenden,49.0,50,7
+51,Virginia,059,Fairfax,8.0,51,59
+51,Virginia,760,Richmond City,8.0,51,760
+53,Washington,033,King,25.0,53,33
+53,Washington,033,King,13.0,53,33
+53,Washington,061,Snohomish,40.0,53,61
+53,Washington,063,Spokane,19.0,53,63
+54,West Virginia,069,Ohio,16.0,54,69
+55,Wisconsin,079,Milwaukee,3.0,55,79
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,14.0,80,2
+02,Alaska,090,Fairbanks North Star ,23.0,2,90
+04,Arizona,013,Maricopa,22.0,4,13
+04,Arizona,013,Maricopa,11.0,4,13
+06,California,001,Alameda,15.0,6,1
+06,California,009,Calaveras,3.0,6,9
+06,California,013,Contra Costa,13.0,6,13
+06,California,019,Fresno,15.0,6,19
+06,California,037,Los Angeles,59.0,6,37
+06,California,059,Orange,16.0,6,59
+06,California,067,Sacramento,20.0,6,67
+06,California,067,Sacramento,5.0,6,67
+06,California,073,San Diego,24.0,6,73
+06,California,073,San Diego,6.0,6,73
+06,California,075,San Francisco,16.0,6,75
+06,California,075,San Francisco,16.0,6,75
+06,California,083,Santa Barbara,2.0,6,83
+06,California,101,Sutter,5.0,6,101
+06,California,107,Tulare,17.0,6,107
+08,Colorado,031,Denver,25.0,8,31
+08,Colorado,123,Weld,28.0,8,123
+08,Colorado,123,Weld,16.0,8,123
+08,Colorado,123,Weld,13.0,8,123
+12,Florida,115,Sarasota,15.0,12,115
+15,Hawaii,003,Honolulu,2.0,15,3
+15,Hawaii,003,Honolulu,13.0,15,3
+19,Iowa,113,Linn,9.0,19,113
+21,Kentucky,013,Bell,11.0,21,13
+21,Kentucky,111,Jefferson,10.0,21,111
+25,Massachusetts,013,Hampden,11.0,25,13
+26,Michigan,125,Oakland,11.0,26,125
+29,Missouri,189,Saint Louis,11.0,29,189
+29,Missouri,189,Saint Louis,6.0,29,189
+29,Missouri,189,Saint Louis,10.0,29,189
+29,Missouri,189,Saint Louis,6.0,29,189
+32,Nevada,003,Clark,6.0,32,3
+32,Nevada,003,Clark,19.0,32,3
+34,New Jersey,013,Essex,11.0,34,13
+34,New Jersey,013,Essex,13.0,34,13
+35,New Mexico,001,Bernalillo,6.0,35,1
+36,New York,055,Monroe,9.0,36,55
+37,North Carolina,067,Forsyth,9.0,37,67
+37,North Carolina,119,Mecklenburg,10.0,37,119
+37,North Carolina,119,Mecklenburg,36.0,37,119
+39,Ohio,035,Cuyahoga,8.0,39,35
+39,Ohio,113,Montgomery,6.0,39,113
+39,Ohio,151,Stark,7.0,39,151
+40,Oklahoma,031,Comanche,8.0,40,31
+40,Oklahoma,109,Oklahoma,30.0,40,109
+41,Oregon,029,Jackson,24.0,41,29
+41,Oregon,051,Multnomah,23.0,41,51
+42,Pennsylvania,003,Allegheny,15.0,42,3
+42,Pennsylvania,049,Erie,6.0,42,49
+42,Pennsylvania,089,Monroe,1.0,42,89
+42,Pennsylvania,125,Washington,2.0,42,125
+42,Pennsylvania,125,Washington,0.0,42,125
+42,Pennsylvania,129,Westmoreland,1.0,42,129
+47,Tennessee,037,Davidson,24.0,47,37
+47,Tennessee,037,Davidson,28.0,47,37
+47,Tennessee,157,Shelby,9.0,47,157
+47,Tennessee,157,Shelby,9.0,47,157
+48,Texas,029,Bexar,11.0,48,29
+48,Texas,479,Webb,10.0,48,479
+49,Utah,035,Salt Lake,15.0,49,35
+50,Vermont,021,Rutland,15.0,50,21
+51,Virginia,510,Alexandria City,6.0,51,510
+51,Virginia,760,Richmond City,0.0,51,760
+53,Washington,011,Clark,15.0,53,11
+53,Washington,011,Clark,15.0,53,11
+53,Washington,063,Spokane,13.0,53,63
+55,Wisconsin,079,Milwaukee,5.0,55,79
+55,Wisconsin,079,Milwaukee,13.0,55,79
+55,Wisconsin,079,Milwaukee,10.0,55,79
+72,Puerto Rico,127,San Juan,18.0,72,127
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,36.0,80,2
+02,Alaska,020,Anchorage ,39.0,2,20
+04,Arizona,013,Maricopa,7.0,4,13
+04,Arizona,013,Maricopa,31.0,4,13
+06,California,001,Alameda,5.0,6,1
+06,California,001,Alameda,11.0,6,1
+06,California,017,El Dorado,23.0,6,17
+06,California,037,Los Angeles,13.0,6,37
+06,California,037,Los Angeles,20.0,6,37
+06,California,045,Mendocino,8.0,6,45
+06,California,097,Sonoma,17.0,6,97
+08,Colorado,013,Boulder,7.0,8,13
+08,Colorado,031,Denver,30.0,8,31
+08,Colorado,041,El Paso,11.0,8,41
+12,Florida,057,Hillsborough,20.0,12,57
+12,Florida,057,Hillsborough,11.0,12,57
+12,Florida,095,Orange,17.0,12,95
+12,Florida,099,Palm Beach,17.0,12,99
+17,Illinois,031,Cook,10.0,17,31
+17,Illinois,197,Will,2.0,17,197
+18,Indiana,097,Marion,19.0,18,97
+19,Iowa,153,Polk,11.0,19,153
+24,Maryland,510,Baltimore (City),18.0,24,510
+25,Massachusetts,013,Hampden,7.0,25,13
+25,Massachusetts,025,Suffolk,24.0,25,25
+25,Massachusetts,027,Worcester,24.0,25,27
+27,Minnesota,123,Ramsey,10.0,27,123
+29,Missouri,077,Greene,11.0,29,77
+29,Missouri,095,Jackson,8.0,29,95
+29,Missouri,510,St. Louis City,15.0,29,510
+30,Montana,029,Flathead,28.0,30,29
+31,Nebraska,055,Douglas,3.0,31,55
+32,Nevada,003,Clark,16.0,32,3
+32,Nevada,003,Clark,28.0,32,3
+32,Nevada,005,Douglas,14.0,32,5
+32,Nevada,031,Washoe,7.0,32,31
+34,New Jersey,039,Union,35.0,34,39
+35,New Mexico,001,Bernalillo,10.0,35,1
+35,New Mexico,001,Bernalillo,26.0,35,1
+36,New York,029,Erie,5.0,36,29
+36,New York,055,Monroe,1.0,36,55
+36,New York,061,New York,13.0,36,61
+36,New York,063,Niagara,5.0,36,63
+37,North Carolina,063,Durham,16.0,37,63
+37,North Carolina,063,Durham,18.0,37,63
+39,Ohio,153,Summit,11.0,39,153
+40,Oklahoma,027,Cleveland,16.0,40,27
+40,Oklahoma,109,Oklahoma,13.0,40,109
+41,Oregon,017,Deschutes,34.0,41,17
+42,Pennsylvania,017,Bucks,5.0,42,17
+42,Pennsylvania,069,Lackawanna,0.0,42,69
+42,Pennsylvania,101,Philadelphia,11.0,42,101
+47,Tennessee,037,Davidson,10.0,47,37
+47,Tennessee,157,Shelby,15.0,47,157
+48,Texas,029,Bexar,14.0,48,29
+48,Texas,113,Dallas,6.0,48,113
+48,Texas,141,El Paso,10.0,48,141
+48,Texas,141,El Paso,15.0,48,141
+49,Utah,035,Salt Lake,25.0,49,35
+50,Vermont,007,Chittenden,3.0,50,7
+51,Virginia,059,Fairfax,9.0,51,59
+53,Washington,063,Spokane,20.0,53,63
+55,Wisconsin,079,Milwaukee,2.0,55,79
+55,Wisconsin,133,Waukesha,3.0,55,133
+72,Puerto Rico,127,San Juan,17.0,72,127
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,14.0,80,2
+80,Country Of Mexico,006,CHIHUAHUA STATE,34.0,80,6
+01,Alabama,073,Jefferson,5.0,1,73
+04,Arizona,013,Maricopa,18.0,4,13
+04,Arizona,013,Maricopa,66.0,4,13
+04,Arizona,013,Maricopa,22.0,4,13
+04,Arizona,013,Maricopa,25.0,4,13
+06,California,017,El Dorado,6.0,6,17
+06,California,037,Los Angeles,14.0,6,37
+06,California,037,Los Angeles,28.0,6,37
+06,California,037,Los Angeles,16.0,6,37
+06,California,059,Orange,10.0,6,59
+06,California,059,Orange,47.0,6,59
+06,California,067,Sacramento,14.0,6,67
+06,California,073,San Diego,39.0,6,73
+06,California,083,Santa Barbara,2.0,6,83
+06,California,083,Santa Barbara,2.0,6,83
+06,California,085,Santa Clara,36.0,6,85
+06,California,095,Solano,14.0,6,95
+06,California,113,Yolo,6.0,6,113
+08,Colorado,013,Boulder,16.0,8,13
+08,Colorado,013,Boulder,14.0,8,13
+08,Colorado,041,El Paso,5.0,8,41
+08,Colorado,041,El Paso,28.0,8,41
+12,Florida,011,Broward,8.0,12,11
+12,Florida,115,Sarasota,11.0,12,115
+12,Florida,115,Sarasota,39.0,12,115
+15,Hawaii,003,Honolulu,11.0,15,3
+15,Hawaii,003,Honolulu,14.0,15,3
+15,Hawaii,003,Honolulu,17.0,15,3
+17,Illinois,197,Will,3.0,17,197
+21,Kentucky,067,Fayette,1.0,21,67
+25,Massachusetts,027,Worcester,6.0,25,27
+26,Michigan,163,Wayne,7.0,26,163
+27,Minnesota,003,Anoka,5.0,27,3
+27,Minnesota,037,Dakota,3.0,27,37
+27,Minnesota,137,Saint Louis,9.0,27,137
+29,Missouri,095,Jackson,8.0,29,95
+29,Missouri,189,Saint Louis,7.0,29,189
+29,Missouri,189,Saint Louis,2.0,29,189
+31,Nebraska,055,Douglas,8.0,31,55
+31,Nebraska,109,Lancaster,14.0,31,109
+31,Nebraska,109,Lancaster,8.0,31,109
+32,Nevada,003,Clark,0.0,32,3
+32,Nevada,003,Clark,15.0,32,3
+32,Nevada,510,Carson City,13.0,32,510
+34,New Jersey,025,Monmouth,19.0,34,25
+35,New Mexico,001,Bernalillo,20.0,35,1
+35,New Mexico,013,Dona Ana,30.0,35,13
+36,New York,029,Erie,9.0,36,29
+36,New York,059,Nassau,6.0,36,59
+36,New York,061,New York,10.0,36,61
+36,New York,081,Queens,7.0,36,81
+37,North Carolina,119,Mecklenburg,13.0,37,119
+39,Ohio,081,Jefferson,13.0,39,81
+39,Ohio,113,Montgomery,5.0,39,113
+40,Oklahoma,031,Comanche,3.0,40,31
+40,Oklahoma,109,Oklahoma,9.0,40,109
+42,Pennsylvania,003,Allegheny,3.0,42,3
+42,Pennsylvania,073,Lawrence,14.0,42,73
+42,Pennsylvania,077,Lehigh,2.0,42,77
+42,Pennsylvania,125,Washington,1.0,42,125
+42,Pennsylvania,129,Westmoreland,0.0,42,129
+42,Pennsylvania,129,Westmoreland,1.0,42,129
+42,Pennsylvania,133,York,1.0,42,133
+47,Tennessee,037,Davidson,8.0,47,37
+47,Tennessee,157,Shelby,3.0,47,157
+47,Tennessee,157,Shelby,23.0,47,157
+47,Tennessee,163,Sullivan,13.0,47,163
+48,Texas,029,Bexar,7.0,48,29
+48,Texas,141,El Paso,6.0,48,141
+48,Texas,479,Webb,18.0,48,479
+49,Utah,057,Weber,7.0,49,57
+51,Virginia,059,Fairfax,3.0,51,59
+51,Virginia,710,Norfolk City,14.0,51,710
+53,Washington,033,King,25.0,53,33
+54,West Virginia,029,Hancock,11.0,54,29
+55,Wisconsin,133,Waukesha,2.0,55,133
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,17.0,80,2
+01,Alabama,073,Jefferson,17.0,1,73
+01,Alabama,073,Jefferson,6.0,1,73
+02,Alaska,020,Anchorage ,19.0,2,20
+02,Alaska,020,Anchorage ,18.0,2,20
+04,Arizona,013,Maricopa,22.0,4,13
+06,California,001,Alameda,6.0,6,1
+06,California,013,Contra Costa,8.0,6,13
+06,California,017,El Dorado,1.0,6,17
+06,California,025,Imperial,13.0,6,25
+06,California,037,Los Angeles,9.0,6,37
+06,California,037,Los Angeles,17.0,6,37
+06,California,059,Orange,5.0,6,59
+06,California,065,Riverside,7.0,6,65
+06,California,065,Riverside,8.0,6,65
+06,California,073,San Diego,6.0,6,73
+06,California,107,Tulare,10.0,6,107
+06,California,107,Tulare,5.0,6,107
+06,California,111,Ventura,5.0,6,111
+06,California,111,Ventura,2.0,6,111
+08,Colorado,013,Boulder,10.0,8,13
+08,Colorado,069,Larimer,18.0,8,69
+09,Connecticut,001,Fairfield,13.0,9,1
+09,Connecticut,003,Hartford,26.0,9,3
+12,Florida,011,Broward,11.0,12,11
+12,Florida,099,Palm Beach,3.0,12,99
+12,Florida,103,Pinellas,7.0,12,103
+12,Florida,115,Sarasota,22.0,12,115
+17,Illinois,031,Cook,7.0,17,31
+17,Illinois,031,Cook,24.0,17,31
+18,Indiana,003,Allen,11.0,18,3
+19,Iowa,153,Polk,18.0,19,153
+21,Kentucky,145,McCracken,0.0,21,145
+22,Louisiana,033,East Baton Rouge,9.0,22,33
+25,Massachusetts,013,Hampden,7.0,25,13
+25,Massachusetts,013,Hampden,8.0,25,13
+25,Massachusetts,027,Worcester,9.0,25,27
+26,Michigan,081,Kent,3.0,26,81
+26,Michigan,163,Wayne,11.0,26,163
+26,Michigan,163,Wayne,5.0,26,163
+29,Missouri,095,Jackson,6.0,29,95
+30,Montana,029,Flathead,9.0,30,29
+30,Montana,063,Missoula,11.0,30,63
+31,Nebraska,055,Douglas,18.0,31,55
+32,Nevada,003,Clark,0.0,32,3
+32,Nevada,003,Clark,0.0,32,3
+32,Nevada,003,Clark,18.0,32,3
+32,Nevada,031,Washoe,6.0,32,31
+32,Nevada,031,Washoe,24.0,32,31
+34,New Jersey,003,Bergen,24.0,34,3
+34,New Jersey,007,Camden,5.0,34,7
+34,New Jersey,007,Camden,2.0,34,7
+34,New Jersey,013,Essex,6.0,34,13
+34,New Jersey,023,Middlesex,11.0,34,23
+34,New Jersey,039,Union,15.0,34,39
+35,New Mexico,013,Dona Ana,14.0,35,13
+37,North Carolina,119,Mecklenburg,7.0,37,119
+39,Ohio,061,Hamilton,18.0,39,61
+39,Ohio,153,Summit,15.0,39,153
+40,Oklahoma,143,Tulsa,6.0,40,143
+41,Oregon,051,Multnomah,24.0,41,51
+41,Oregon,051,Multnomah,15.0,41,51
+42,Pennsylvania,003,Allegheny,5.0,42,3
+42,Pennsylvania,017,Bucks,9.0,42,17
+42,Pennsylvania,101,Philadelphia,8.0,42,101
+48,Texas,029,Bexar,8.0,48,29
+48,Texas,141,El Paso,1.0,48,141
+48,Texas,141,El Paso,7.0,48,141
+48,Texas,141,El Paso,2.0,48,141
+48,Texas,141,El Paso,8.0,48,141
+48,Texas,201,Harris,3.0,48,201
+48,Texas,201,Harris,3.0,48,201
+48,Texas,479,Webb,6.0,48,479
+49,Utah,035,Salt Lake,15.0,49,35
+49,Utah,049,Utah,14.0,49,49
+49,Utah,049,Utah,36.0,49,49
+51,Virginia,650,Hampton City,11.0,51,650
+51,Virginia,760,Richmond City,7.0,51,760
+51,Virginia,760,Richmond City,11.0,51,760
+53,Washington,033,King,15.0,53,33
+53,Washington,033,King,24.0,53,33
+53,Washington,033,King,26.0,53,33
+53,Washington,053,Pierce,14.0,53,53
+53,Washington,063,Spokane,16.0,53,63
+53,Washington,067,Thurston,18.0,53,67
+54,West Virginia,009,Brooke,7.0,54,9
+54,West Virginia,009,Brooke,3.0,54,9
+54,West Virginia,069,Ohio,7.0,54,69
+55,Wisconsin,101,Racine,7.0,55,101
+55,Wisconsin,133,Waukesha,3.0,55,133
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,10.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,33.0,80,2
+80,Country Of Mexico,006,CHIHUAHUA STATE,6.0,80,6
+04,Arizona,013,Maricopa,45.0,4,13
+06,California,019,Fresno,9.0,6,19
+06,California,037,Los Angeles,14.0,6,37
+06,California,045,Mendocino,17.0,6,45
+06,California,067,Sacramento,5.0,6,67
+06,California,067,Sacramento,5.0,6,67
+06,California,071,San Bernardino,3.0,6,71
+06,California,111,Ventura,5.0,6,111
+08,Colorado,031,Denver,19.0,8,31
+08,Colorado,059,Jefferson,8.0,8,59
+08,Colorado,077,Mesa,28.0,8,77
+09,Connecticut,001,Fairfield,8.0,9,1
+09,Connecticut,001,Fairfield,13.0,9,1
+09,Connecticut,003,Hartford,61.0,9,3
+09,Connecticut,009,New Haven,9.0,9,9
+11,District Of Columbia,001,District of Columbia,16.0,11,1
+11,District Of Columbia,001,District of Columbia,14.0,11,1
+12,Florida,011,Broward,8.0,12,11
+12,Florida,057,Hillsborough,7.0,12,57
+12,Florida,086,Miami-Dade,16.0,12,86
+12,Florida,099,Palm Beach,3.0,12,99
+15,Hawaii,003,Honolulu,3.0,15,3
+17,Illinois,031,Cook,32.0,17,31
+17,Illinois,167,Sangamon,10.0,17,167
+17,Illinois,201,Winnebago,17.0,17,201
+18,Indiana,097,Marion,16.0,18,97
+20,Kansas,107,Linn,10.0,20,107
+21,Kentucky,067,Fayette,3.0,21,67
+21,Kentucky,067,Fayette,1.0,21,67
+21,Kentucky,111,Jefferson,23.0,21,111
+21,Kentucky,111,Jefferson,20.0,21,111
+22,Louisiana,033,East Baton Rouge,50.0,22,33
+25,Massachusetts,013,Hampden,34.0,25,13
+25,Massachusetts,025,Suffolk,7.0,25,25
+26,Michigan,163,Wayne,9.0,26,163
+27,Minnesota,123,Ramsey,14.0,27,123
+27,Minnesota,137,Saint Louis,17.0,27,137
+27,Minnesota,145,Stearns,13.0,27,145
+29,Missouri,189,Saint Louis,3.0,29,189
+31,Nebraska,109,Lancaster,18.0,31,109
+32,Nevada,003,Clark,1.0,32,3
+32,Nevada,003,Clark,7.0,32,3
+32,Nevada,031,Washoe,10.0,32,31
+32,Nevada,031,Washoe,17.0,32,31
+32,Nevada,510,Carson City,11.0,32,510
+34,New Jersey,005,Burlington,8.0,34,5
+35,New Mexico,013,Dona Ana,3.0,35,13
+35,New Mexico,049,Santa Fe,10.0,35,49
+36,New York,047,Kings,7.0,36,47
+36,New York,059,Nassau,6.0,36,59
+36,New York,059,Nassau,7.0,36,59
+36,New York,067,Onondaga,16.0,36,67
+37,North Carolina,063,Durham,5.0,37,63
+37,North Carolina,067,Forsyth,18.0,37,67
+37,North Carolina,119,Mecklenburg,16.0,37,119
+37,North Carolina,183,Wake,8.0,37,183
+39,Ohio,035,Cuyahoga,13.0,39,35
+39,Ohio,113,Montgomery,6.0,39,113
+40,Oklahoma,143,Tulsa,9.0,40,143
+41,Oregon,029,Jackson,38.0,41,29
+41,Oregon,039,Lane,25.0,41,39
+41,Oregon,051,Multnomah,7.0,41,51
+42,Pennsylvania,003,Allegheny,10.0,42,3
+42,Pennsylvania,003,Allegheny,15.0,42,3
+42,Pennsylvania,007,Beaver,6.0,42,7
+42,Pennsylvania,049,Erie,7.0,42,49
+42,Pennsylvania,069,Lackawanna,5.0,42,69
+42,Pennsylvania,091,Montgomery,3.0,42,91
+47,Tennessee,157,Shelby,11.0,47,157
+47,Tennessee,157,Shelby,10.0,47,157
+48,Texas,141,El Paso,5.0,48,141
+51,Virginia,710,Norfolk City,14.0,51,710
+53,Washington,033,King,8.0,53,33
+53,Washington,063,Spokane,32.0,53,63
+55,Wisconsin,079,Milwaukee,7.0,55,79
+01,Alabama,073,Jefferson,17.0,1,73
+02,Alaska,090,Fairbanks North Star ,24.0,2,90
+02,Alaska,090,Fairbanks North Star ,19.0,2,90
+04,Arizona,019,Pima,7.0,4,19
+06,California,001,Alameda,20.0,6,1
+06,California,013,Contra Costa,8.0,6,13
+06,California,025,Imperial,3.0,6,25
+06,California,029,Kern,2.0,6,29
+06,California,037,Los Angeles,2.0,6,37
+06,California,037,Los Angeles,24.0,6,37
+06,California,037,Los Angeles,14.0,6,37
+06,California,041,Marin,16.0,6,41
+06,California,061,Placer,6.0,6,61
+06,California,065,Riverside,11.0,6,65
+06,California,073,San Diego,10.0,6,73
+06,California,073,San Diego,32.0,6,73
+06,California,077,San Joaquin,6.0,6,77
+06,California,083,Santa Barbara,5.0,6,83
+06,California,083,Santa Barbara,3.0,6,83
+06,California,101,Sutter,5.0,6,101
+08,Colorado,031,Denver,9.0,8,31
+08,Colorado,059,Jefferson,3.0,8,59
+09,Connecticut,003,Hartford,18.0,9,3
+12,Florida,011,Broward,11.0,12,11
+12,Florida,011,Broward,8.0,12,11
+12,Florida,031,Duval,8.0,12,31
+12,Florida,031,Duval,6.0,12,31
+17,Illinois,163,Saint Clair,14.0,17,163
+21,Kentucky,019,Boyd,9.0,21,19
+24,Maryland,005,Baltimore,5.0,24,5
+25,Massachusetts,017,Middlesex,10.0,25,17
+25,Massachusetts,025,Suffolk,10.0,25,25
+26,Michigan,081,Kent,5.0,26,81
+27,Minnesota,037,Dakota,6.0,27,37
+27,Minnesota,123,Ramsey,3.0,27,123
+27,Minnesota,137,Saint Louis,8.0,27,137
+32,Nevada,003,Clark,7.0,32,3
+32,Nevada,003,Clark,0.0,32,3
+32,Nevada,031,Washoe,22.0,32,31
+34,New Jersey,017,Hudson,19.0,34,17
+35,New Mexico,001,Bernalillo,33.0,35,1
+35,New Mexico,001,Bernalillo,22.0,35,1
+35,New Mexico,001,Bernalillo,1.0,35,1
+36,New York,055,Monroe,15.0,36,55
+36,New York,067,Onondaga,8.0,36,67
+36,New York,081,Queens,9.0,36,81
+37,North Carolina,067,Forsyth,10.0,37,67
+37,North Carolina,067,Forsyth,13.0,37,67
+37,North Carolina,119,Mecklenburg,10.0,37,119
+39,Ohio,035,Cuyahoga,1.0,39,35
+39,Ohio,061,Hamilton,2.0,39,61
+39,Ohio,081,Jefferson,24.0,39,81
+39,Ohio,153,Summit,6.0,39,153
+39,Ohio,153,Summit,8.0,39,153
+41,Oregon,029,Jackson,24.0,41,29
+42,Pennsylvania,017,Bucks,1.0,42,17
+42,Pennsylvania,021,Cambria,11.0,42,21
+42,Pennsylvania,021,Cambria,7.0,42,21
+42,Pennsylvania,101,Philadelphia,7.0,42,101
+42,Pennsylvania,125,Washington,1.0,42,125
+48,Texas,439,Tarrant,6.0,48,439
+48,Texas,479,Webb,6.0,48,479
+49,Utah,035,Salt Lake,8.0,49,35
+51,Virginia,059,Fairfax,6.0,51,59
+51,Virginia,510,Alexandria City,10.0,51,510
+51,Virginia,760,Richmond City,5.0,51,760
+51,Virginia,770,Roanoke City,10.0,51,770
+53,Washington,033,King,9.0,53,33
+54,West Virginia,029,Hancock,17.0,54,29
+72,Puerto Rico,127,San Juan,34.0,72,127
+72,Puerto Rico,127,San Juan,16.0,72,127
+72,Puerto Rico,127,San Juan,7.0,72,127
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,5.0,80,2
+02,Alaska,020,Anchorage ,15.0,2,20
+02,Alaska,090,Fairbanks North Star ,5.0,2,90
+04,Arizona,013,Maricopa,17.0,4,13
+04,Arizona,013,Maricopa,5.0,4,13
+04,Arizona,019,Pima,5.0,4,19
+06,California,001,Alameda,5.0,6,1
+06,California,007,Butte,11.0,6,7
+06,California,013,Contra Costa,6.0,6,13
+06,California,019,Fresno,10.0,6,19
+06,California,019,Fresno,3.0,6,19
+06,California,059,Orange,6.0,6,59
+06,California,067,Sacramento,9.0,6,67
+06,California,071,San Bernardino,6.0,6,71
+06,California,071,San Bernardino,17.0,6,71
+06,California,081,San Mateo,9.0,6,81
+06,California,083,Santa Barbara,3.0,6,83
+06,California,095,Solano,5.0,6,95
+06,California,099,Stanislaus,6.0,6,99
+08,Colorado,059,Jefferson,5.0,8,59
+08,Colorado,067,La Plata,5.0,8,67
+11,District Of Columbia,001,District of Columbia,31.0,11,1
+12,Florida,095,Orange,2.0,12,95
+12,Florida,115,Sarasota,20.0,12,115
+17,Illinois,143,Peoria,9.0,17,143
+17,Illinois,163,Saint Clair,9.0,17,163
+17,Illinois,201,Winnebago,8.0,17,201
+18,Indiana,063,Hendricks,10.0,18,63
+18,Indiana,097,Marion,9.0,18,97
+20,Kansas,173,Sedgwick,18.0,20,173
+25,Massachusetts,027,Worcester,9.0,25,27
+26,Michigan,125,Oakland,7.0,26,125
+27,Minnesota,003,Anoka,2.0,27,3
+27,Minnesota,145,Stearns,8.0,27,145
+29,Missouri,077,Greene,24.0,29,77
+30,Montana,013,Cascade,7.0,30,13
+30,Montana,029,Flathead,13.0,30,29
+32,Nevada,003,Clark,16.0,32,3
+32,Nevada,003,Clark,26.0,32,3
+32,Nevada,031,Washoe,25.0,32,31
+34,New Jersey,007,Camden,3.0,34,7
+34,New Jersey,007,Camden,3.0,34,7
+34,New Jersey,025,Monmouth,8.0,34,25
+35,New Mexico,001,Bernalillo,2.0,35,1
+39,Ohio,035,Cuyahoga,9.0,39,35
+40,Oklahoma,109,Oklahoma,7.0,40,109
+42,Pennsylvania,003,Allegheny,7.0,42,3
+42,Pennsylvania,003,Allegheny,2.0,42,3
+42,Pennsylvania,017,Bucks,17.0,42,17
+42,Pennsylvania,101,Philadelphia,2.0,42,101
+42,Pennsylvania,125,Washington,3.0,42,125
+48,Texas,141,El Paso,5.0,48,141
+48,Texas,141,El Paso,6.0,48,141
+51,Virginia,770,Roanoke City,13.0,51,770
+53,Washington,033,King,11.0,53,33
+53,Washington,063,Spokane,16.0,53,63
+54,West Virginia,029,Hancock,3.0,54,29
+72,Puerto Rico,127,San Juan,17.0,72,127
+72,Puerto Rico,127,San Juan,19.0,72,127
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,60.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,28.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,0.0,80,2
+01,Alabama,073,Jefferson,0.0,1,73
+04,Arizona,013,Maricopa,25.0,4,13
+04,Arizona,013,Maricopa,8.0,4,13
+04,Arizona,013,Maricopa,8.0,4,13
+04,Arizona,019,Pima,11.0,4,19
+04,Arizona,019,Pima,22.0,4,19
+06,California,013,Contra Costa,3.0,6,13
+06,California,025,Imperial,26.0,6,25
+06,California,025,Imperial,0.0,6,25
+06,California,037,Los Angeles,5.0,6,37
+06,California,037,Los Angeles,3.0,6,37
+06,California,037,Los Angeles,3.0,6,37
+06,California,037,Los Angeles,7.0,6,37
+06,California,065,Riverside,7.0,6,65
+06,California,073,San Diego,9.0,6,73
+06,California,075,San Francisco,10.0,6,75
+06,California,087,Santa Cruz,3.0,6,87
+08,Colorado,001,Adams,14.0,8,1
+08,Colorado,001,Adams,11.0,8,1
+09,Connecticut,001,Fairfield,7.0,9,1
+12,Florida,115,Sarasota,15.0,12,115
+17,Illinois,031,Cook,24.0,17,31
+17,Illinois,201,Winnebago,13.0,17,201
+18,Indiana,063,Hendricks,8.0,18,63
+19,Iowa,113,Linn,1.0,19,113
+20,Kansas,173,Sedgwick,8.0,20,173
+25,Massachusetts,013,Hampden,8.0,25,13
+25,Massachusetts,017,Middlesex,8.0,25,17
+27,Minnesota,037,Dakota,3.0,27,37
+30,Montana,029,Flathead,16.0,30,29
+32,Nevada,031,Washoe,17.0,32,31
+32,Nevada,031,Washoe,5.0,32,31
+36,New York,055,Monroe,8.0,36,55
+37,North Carolina,067,Forsyth,5.0,37,67
+39,Ohio,081,Jefferson,10.0,39,81
+39,Ohio,151,Stark,7.0,39,151
+41,Oregon,039,Lane,8.0,41,39
+42,Pennsylvania,001,Adams,3.0,42,1
+42,Pennsylvania,011,Berks,8.0,42,11
+48,Texas,141,El Paso,14.0,48,141
+48,Texas,141,El Paso,5.0,48,141
+48,Texas,141,El Paso,9.0,48,141
+48,Texas,201,Harris,10.0,48,201
+51,Virginia,059,Fairfax,8.0,51,59
+51,Virginia,760,Richmond City,6.0,51,760
+53,Washington,053,Pierce,3.0,53,53
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,13.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,8.0,80,2
+02,Alaska,020,Anchorage ,15.0,2,20
+04,Arizona,013,Maricopa,11.0,4,13
+04,Arizona,013,Maricopa,9.0,4,13
+04,Arizona,013,Maricopa,22.0,4,13
+04,Arizona,019,Pima,13.0,4,19
+06,California,013,Contra Costa,5.0,6,13
+06,California,037,Los Angeles,6.0,6,37
+06,California,053,Monterey,7.0,6,53
+06,California,067,Sacramento,9.0,6,67
+08,Colorado,069,Larimer,7.0,8,69
+09,Connecticut,001,Fairfield,14.0,9,1
+09,Connecticut,003,Hartford,6.0,9,3
+09,Connecticut,009,New Haven,7.0,9,9
+11,District Of Columbia,001,District of Columbia,22.0,11,1
+12,Florida,031,Duval,16.0,12,31
+12,Florida,086,Miami-Dade,7.0,12,86
+12,Florida,086,Miami-Dade,18.0,12,86
+12,Florida,086,Miami-Dade,8.0,12,86
+12,Florida,095,Orange,10.0,12,95
+12,Florida,095,Orange,6.0,12,95
+12,Florida,103,Pinellas,7.0,12,103
+12,Florida,115,Sarasota,19.0,12,115
+13,Georgia,089,DeKalb,7.0,13,89
+13,Georgia,223,Paulding,5.0,13,223
+17,Illinois,167,Sangamon,10.0,17,167
+17,Illinois,201,Winnebago,6.0,17,201
+19,Iowa,153,Polk,9.0,19,153
+20,Kansas,107,Linn,2.0,20,107
+20,Kansas,173,Sedgwick,6.0,20,173
+25,Massachusetts,027,Worcester,6.0,25,27
+26,Michigan,163,Wayne,7.0,26,163
+27,Minnesota,003,Anoka,0.0,27,3
+27,Minnesota,037,Dakota,3.0,27,37
+27,Minnesota,123,Ramsey,15.0,27,123
+27,Minnesota,137,Saint Louis,2.0,27,137
+30,Montana,031,Gallatin,13.0,30,31
+30,Montana,111,Yellowstone,30.0,30,111
+32,Nevada,003,Clark,0.0,32,3
+32,Nevada,031,Washoe,6.0,32,31
+34,New Jersey,003,Bergen,5.0,34,3
+34,New Jersey,039,Union,7.0,34,39
+35,New Mexico,001,Bernalillo,9.0,35,1
+36,New York,001,Albany,7.0,36,1
+36,New York,005,Bronx,10.0,36,5
+36,New York,047,Kings,14.0,36,47
+37,North Carolina,081,Guilford,13.0,37,81
+39,Ohio,035,Cuyahoga,10.0,39,35
+39,Ohio,081,Jefferson,10.0,39,81
+39,Ohio,081,Jefferson,6.0,39,81
+39,Ohio,113,Montgomery,8.0,39,113
+40,Oklahoma,027,Cleveland,14.0,40,27
+42,Pennsylvania,007,Beaver,5.0,42,7
+42,Pennsylvania,073,Lawrence,15.0,42,73
+42,Pennsylvania,095,Northampton,0.0,42,95
+42,Pennsylvania,101,Philadelphia,17.0,42,101
+42,Pennsylvania,125,Washington,2.0,42,125
+48,Texas,029,Bexar,8.0,48,29
+48,Texas,141,El Paso,14.0,48,141
+48,Texas,141,El Paso,7.0,48,141
+48,Texas,201,Harris,16.0,48,201
+48,Texas,439,Tarrant,8.0,48,439
+51,Virginia,059,Fairfax,7.0,51,59
+72,Puerto Rico,127,San Juan,28.0,72,127
+80,Country Of Mexico,006,CHIHUAHUA STATE,14.0,80,6
+80,Country Of Mexico,006,CHIHUAHUA STATE,25.0,80,6
+48,Texas,029,Bexar,5.0,48,29
+39,Ohio,085,Lake,6.0,39,85
+48,Texas,141,El Paso,5.0,48,141
+30,Montana,031,Gallatin,6.0,30,31
+06,California,013,Contra Costa,6.0,6,13
+32,Nevada,031,Washoe,5.0,32,31
+72,Puerto Rico,127,San Juan,10.0,72,127
+17,Illinois,031,Cook,3.0,17,31
+06,California,067,Sacramento,3.0,6,67
+32,Nevada,003,Clark,10.0,32,3
+32,Nevada,003,Clark,13.0,32,3
+34,New Jersey,039,Union,5.0,34,39
+48,Texas,141,El Paso,8.0,48,141
+51,Virginia,700,Newport News City,2.0,51,700
+04,Arizona,019,Pima,8.0,4,19
+06,California,037,Los Angeles,23.0,6,37
+01,Alabama,073,Jefferson,9.0,1,73
+48,Texas,201,Harris,3.0,48,201
+34,New Jersey,039,Union,9.0,34,39
+48,Texas,201,Harris,2.0,48,201
+25,Massachusetts,027,Worcester,3.0,25,27
+25,Massachusetts,027,Worcester,5.0,25,27
+32,Nevada,031,Washoe,9.0,32,31
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,2.0,80,2
+42,Pennsylvania,003,Allegheny,1.0,42,3
+36,New York,101,Steuben,2.0,36,101
+25,Massachusetts,009,Essex,5.0,25,9
+36,New York,029,Erie,2.0,36,29
+04,Arizona,013,Maricopa,8.0,4,13
+20,Kansas,173,Sedgwick,7.0,20,173
+48,Texas,141,El Paso,2.0,48,141
+42,Pennsylvania,069,Lackawanna,0.0,42,69
+02,Alaska,020,Anchorage ,8.0,2,20
+51,Virginia,760,Richmond City,2.0,51,760
+51,Virginia,510,Alexandria City,8.0,51,510
+04,Arizona,013,Maricopa,22.0,4,13
+04,Arizona,013,Maricopa,11.0,4,13
+04,Arizona,013,Maricopa,7.0,4,13
+06,California,001,Alameda,5.0,6,1
+06,California,001,Alameda,8.0,6,1
+06,California,023,Humboldt,2.0,6,23
+06,California,037,Los Angeles,5.0,6,37
+06,California,045,Mendocino,3.0,6,45
+06,California,059,Orange,6.0,6,59
+06,California,065,Riverside,7.0,6,65
+08,Colorado,001,Adams,7.0,8,1
+12,Florida,086,Miami-Dade,6.0,12,86
+12,Florida,086,Miami-Dade,17.0,12,86
+13,Georgia,089,DeKalb,2.0,13,89
+13,Georgia,223,Paulding,2.0,13,223
+17,Illinois,031,Cook,8.0,17,31
+17,Illinois,031,Cook,5.0,17,31
+18,Indiana,003,Allen,3.0,18,3
+19,Iowa,153,Polk,5.0,19,153
+20,Kansas,173,Sedgwick,3.0,20,173
+21,Kentucky,111,Jefferson,7.0,21,111
+24,Maryland,510,Baltimore (City),8.0,24,510
+25,Massachusetts,017,Middlesex,6.0,25,17
+30,Montana,111,Yellowstone,3.0,30,111
+32,Nevada,003,Clark,15.0,32,3
+32,Nevada,031,Washoe,8.0,32,31
+32,Nevada,031,Washoe,10.0,32,31
+32,Nevada,031,Washoe,3.0,32,31
+34,New Jersey,003,Bergen,8.0,34,3
+35,New Mexico,001,Bernalillo,15.0,35,1
+36,New York,001,Albany,5.0,36,1
+36,New York,061,New York,8.0,36,61
+37,North Carolina,183,Wake,19.0,37,183
+39,Ohio,049,Franklin,5.0,39,49
+39,Ohio,085,Lake,7.0,39,85
+39,Ohio,153,Summit,6.0,39,153
+42,Pennsylvania,003,Allegheny,8.0,42,3
+42,Pennsylvania,013,Blair,5.0,42,13
+42,Pennsylvania,069,Lackawanna,2.0,42,69
+42,Pennsylvania,101,Philadelphia,8.0,42,101
+47,Tennessee,157,Shelby,10.0,47,157
+48,Texas,061,Cameron,8.0,48,61
+48,Texas,113,Dallas,0.0,48,113
+48,Texas,141,El Paso,10.0,48,141
+48,Texas,141,El Paso,27.0,48,141
+48,Texas,201,Harris,2.0,48,201
+48,Texas,201,Harris,6.0,48,201
+48,Texas,245,Jefferson,3.0,48,245
+51,Virginia,059,Fairfax,11.0,51,59
+51,Virginia,059,Fairfax,5.0,51,59
+51,Virginia,710,Norfolk City,3.0,51,710
+51,Virginia,760,Richmond City,1.0,51,760
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,1.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,3.0,80,2
+80,Country Of Mexico,006,CHIHUAHUA STATE,14.0,80,6
+80,Country Of Mexico,006,CHIHUAHUA STATE,8.0,80,6
+30,Montana,031,Gallatin,5.0,30,31
+02,Alaska,020,Anchorage ,11.0,2,20
+08,Colorado,031,Denver,7.0,8,31
+17,Illinois,031,Cook,2.0,17,31
+42,Pennsylvania,013,Blair,0.0,42,13
+04,Arizona,019,Pima,6.0,4,19
+39,Ohio,085,Lake,2.0,39,85
+06,California,053,Monterey,5.0,6,53
+06,California,053,Monterey,6.0,6,53
+08,Colorado,001,Adams,5.0,8,1
+06,California,059,Orange,6.0,6,59
+06,California,083,Santa Barbara,6.0,6,83
+06,California,037,Los Angeles,5.0,6,37
+06,California,095,Solano,5.0,6,95
+04,Arizona,019,Pima,8.0,4,19
+06,California,013,Contra Costa,2.0,6,13
+48,Texas,141,El Paso,11.0,48,141
+42,Pennsylvania,049,Erie,8.0,42,49
+48,Texas,029,Bexar,7.0,48,29
+04,Arizona,019,Pima,3.0,4,19
+01,Alabama,073,Jefferson,0.0,1,73
+30,Montana,111,Yellowstone,8.0,30,111
+42,Pennsylvania,007,Beaver,5.0,42,7
+34,New Jersey,017,Hudson,6.0,34,17
+34,New Jersey,007,Camden,1.0,34,7
+06,California,045,Mendocino,7.0,6,45
+20,Kansas,173,Sedgwick,6.0,20,173
+32,Nevada,031,Washoe,3.0,32,31
+32,Nevada,031,Washoe,13.0,32,31
+06,California,025,Imperial,13.0,6,25
+13,Georgia,089,DeKalb,8.0,13,89
+24,Maryland,023,Garrett,2.0,24,23
+42,Pennsylvania,129,Westmoreland,0.0,42,129
+42,Pennsylvania,003,Allegheny,10.0,42,3
+01,Alabama,073,Jefferson,7.0,1,73
+06,California,073,San Diego,6.0,6,73
+29,Missouri,510,St. Louis City,3.0,29,510
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,8.0,80,2
+13,Georgia,223,Paulding,3.0,13,223
+29,Missouri,189,Saint Louis,3.0,29,189
+25,Massachusetts,027,Worcester,6.0,25,27
+06,California,097,Sonoma,3.0,6,97
+08,Colorado,031,Denver,6.0,8,31
+48,Texas,439,Tarrant,9.0,48,439
+08,Colorado,123,Weld,7.0,8,123
+39,Ohio,049,Franklin,3.0,39,49
+48,Texas,201,Harris,5.0,48,201
+06,California,075,San Francisco,6.0,6,75
+39,Ohio,153,Summit,3.0,39,153
+48,Texas,479,Webb,8.0,48,479
+04,Arizona,019,Pima,3.0,4,19
+06,California,023,Humboldt,3.0,6,23
+35,New Mexico,001,Bernalillo,9.0,35,1
+51,Virginia,013,Arlington,2.0,51,13
+51,Virginia,013,Arlington,2.0,51,13
+22,Louisiana,033,East Baton Rouge,10.0,22,33
+06,California,065,Riverside,2.0,6,65
+51,Virginia,810,Virginia Beach City,3.0,51,810
+51,Virginia,810,Virginia Beach City,5.0,51,810
+06,California,037,Los Angeles,10.0,6,37
+06,California,071,San Bernardino,7.0,6,71
+04,Arizona,013,Maricopa,5.0,4,13
+48,Texas,141,El Paso,5.0,48,141
+26,Michigan,081,Kent,3.0,26,81
+32,Nevada,005,Douglas,0.0,32,5
+06,California,019,Fresno,2.0,6,19
+01,Alabama,073,Jefferson,20.0,1,73
+04,Arizona,013,Maricopa,16.0,4,13
+40,Oklahoma,143,Tulsa,7.0,40,143
+32,Nevada,031,Washoe,2.0,32,31
+48,Texas,141,El Paso,6.0,48,141
+13,Georgia,089,DeKalb,10.0,13,89
+34,New Jersey,039,Union,3.0,34,39
+51,Virginia,087,Henrico,3.0,51,87
+51,Virginia,510,Alexandria City,0.0,51,510
+51,Virginia,510,Alexandria City,3.0,51,510
+42,Pennsylvania,003,Allegheny,7.0,42,3
+12,Florida,011,Broward,5.0,12,11
+32,Nevada,031,Washoe,2.0,32,31
+18,Indiana,003,Allen,5.0,18,3
+01,Alabama,073,Jefferson,8.0,1,73
+01,Alabama,073,Jefferson,7.0,1,73
+04,Arizona,013,Maricopa,17.0,4,13
+04,Arizona,013,Maricopa,28.0,4,13
+04,Arizona,019,Pima,6.0,4,19
+06,California,009,Calaveras,2.0,6,9
+06,California,019,Fresno,8.0,6,19
+06,California,025,Imperial,10.0,6,25
+06,California,025,Imperial,9.0,6,25
+06,California,025,Imperial,0.0,6,25
+06,California,037,Los Angeles,13.0,6,37
+06,California,045,Mendocino,5.0,6,45
+06,California,061,Placer,5.0,6,61
+06,California,071,San Bernardino,6.0,6,71
+06,California,071,San Bernardino,17.0,6,71
+06,California,081,San Mateo,13.0,6,81
+06,California,085,Santa Clara,8.0,6,85
+06,California,087,Santa Cruz,5.0,6,87
+06,California,109,Tuolumne,11.0,6,109
+08,Colorado,041,El Paso,7.0,8,41
+08,Colorado,059,Jefferson,3.0,8,59
+08,Colorado,069,Larimer,10.0,8,69
+11,District Of Columbia,001,District of Columbia,22.0,11,1
+12,Florida,057,Hillsborough,13.0,12,57
+12,Florida,057,Hillsborough,3.0,12,57
+12,Florida,086,Miami-Dade,11.0,12,86
+12,Florida,086,Miami-Dade,7.0,12,86
+12,Florida,099,Palm Beach,14.0,12,99
+13,Georgia,121,Fulton,9.0,13,121
+18,Indiana,063,Hendricks,9.0,18,63
+18,Indiana,063,Hendricks,2.0,18,63
+19,Iowa,153,Polk,3.0,19,153
+24,Maryland,005,Baltimore,6.0,24,5
+27,Minnesota,037,Dakota,1.0,27,37
+27,Minnesota,137,Saint Louis,10.0,27,137
+29,Missouri,095,Jackson,9.0,29,95
+29,Missouri,189,Saint Louis,7.0,29,189
+29,Missouri,510,St. Louis City,16.0,29,510
+30,Montana,029,Flathead,13.0,30,29
+30,Montana,031,Gallatin,2.0,30,31
+31,Nebraska,109,Lancaster,11.0,31,109
+32,Nevada,003,Clark,7.0,32,3
+32,Nevada,003,Clark,3.0,32,3
+39,Ohio,049,Franklin,6.0,39,49
+39,Ohio,061,Hamilton,13.0,39,61
+42,Pennsylvania,043,Dauphin,6.0,42,43
+42,Pennsylvania,043,Dauphin,3.0,42,43
+42,Pennsylvania,049,Erie,14.0,42,49
+42,Pennsylvania,107,Schuylkill,0.0,42,107
+42,Pennsylvania,129,Westmoreland,0.0,42,129
+48,Texas,141,El Paso,3.0,48,141
+48,Texas,439,Tarrant,7.0,48,439
+48,Texas,453,Travis,5.0,48,453
+49,Utah,035,Salt Lake,16.0,49,35
+49,Utah,035,Salt Lake,13.0,49,35
+51,Virginia,650,Hampton City,8.0,51,650
+51,Virginia,770,Roanoke City,10.0,51,770
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,79.0,80,2
+80,Country Of Mexico,002,BAJA CALIFORNIA NORTE,18.0,80,2
+30,Montana,031,Gallatin,10.0,30,31
+17,Illinois,201,Winnebago,7.0,17,201
+80,Country Of Mexico,006,CHIHUAHUA STATE,23.0,80,6
+39,Ohio,049,Franklin,8.0,39,49
+25,Massachusetts,013,Hampden,6.0,25,13
+17,Illinois,031,Cook,5.0,17,31
+48,Texas,309,McLennan,3.0,48,309
+27,Minnesota,053,Hennepin,0.0,27,53
+08,Colorado,077,Mesa,6.0,8,77
+04,Arizona,019,Pima,10.0,4,19
+06,California,077,San Joaquin,15.0,6,77
+06,California,025,Imperial,2.0,6,25
+06,California,013,Contra Costa,8.0,6,13
+37,North Carolina,183,Wake,2.0,37,183
+54,West Virginia,029,Hancock,3.0,54,29
+01,Alabama,073,Jefferson,7.0,1,73
+06,California,007,Butte,3.0,6,7
+06,California,071,San Bernardino,2.0,6,71
+53,Washington,063,Spokane,13.0,53,63
+06,California,037,Los Angeles,9.0,6,37
+31,Nebraska,109,Lancaster,6.0,31,109
+01,Alabama,073,Jefferson,6.0,1,73
+06,California,083,Santa Barbara,2.0,6,83
+06,California,013,Contra Costa,8.0,6,13
+06,California,071,San Bernardino,13.0,6,71
+32,Nevada,031,Washoe,2.0,32,31
+04,Arizona,013,Maricopa,13.0,4,13
+06,California,059,Orange,0.0,6,59
+06,California,067,Sacramento,5.0,6,67
+48,Texas,141,El Paso,11.0,48,141
+01,Alabama,073,Jefferson,6.0,1,73
+20,Kansas,209,Wyandotte,3.0,20,209
+42,Pennsylvania,043,Dauphin,6.0,42,43
+06,California,059,Orange,0.0,6,59
+32,Nevada,003,Clark,3.0,32,3
+42,Pennsylvania,003,Allegheny,2.0,42,3
+24,Maryland,510,Baltimore (City),5.0,24,510
+36,New York,029,Erie,11.0,36,29
+50,Vermont,007,Chittenden,6.0,50,7
+42,Pennsylvania,003,Allegheny,3.0,42,3
+29,Missouri,510,St. Louis City,3.0,29,510
+25,Massachusetts,027,Worcester,7.0,25,27
+17,Illinois,163,Saint Clair,6.0,17,163
+25,Massachusetts,009,Essex,2.0,25,9
+39,Ohio,035,Cuyahoga,22.0,39,35
+06,California,023,Humboldt,1.0,6,23
+39,Ohio,085,Lake,6.0,39,85
+24,Maryland,005,Baltimore,2.0,24,5
+08,Colorado,041,El Paso,6.0,8,41
+36,New York,061,New York,5.0,36,61
+36,New York,061,New York,7.0,36,61
+06,California,083,Santa Barbara,2.0,6,83
+48,Texas,201,Harris,5.0,48,201
+32,Nevada,031,Washoe,23.0,32,31
+06,California,099,Stanislaus,23.0,6,99
+06,California,077,San Joaquin,2.0,6,77
+06,California,007,Butte,10.0,6,7
+06,California,001,Alameda,5.0,6,1
+04,Arizona,019,Pima,5.0,4,19
+04,Arizona,013,Maricopa,11.0,4,13
+39,Ohio,135,Preble,3.0,39,135
+42,Pennsylvania,001,Adams,1.0,42,1
+26,Michigan,163,Wayne,2.0,26,163
+26,Michigan,163,Wayne,5.0,26,163
+32,Nevada,031,Washoe,5.0,32,31
+06,California,083,Santa Barbara,2.0,6,83
+06,California,083,Santa Barbara,2.0,6,83
+06,California,065,Riverside,6.0,6,65
+26,Michigan,163,Wayne,1.0,26,163
+06,California,071,San Bernardino,5.0,6,71
+06,California,083,Santa Barbara,2.0,6,83
+06,California,067,Sacramento,6.0,6,67
+32,Nevada,031,Washoe,8.0,32,31
+48,Texas,141,El Paso,9.0,48,141
+06,California,037,Los Angeles,6.0,6,37
+08,Colorado,067,La Plata,1.0,8,67
+34,New Jersey,039,Union,5.0,34,39
+48,Texas,141,El Paso,11.0,48,141
+32,Nevada,031,Washoe,6.0,32,31
+11,District Of Columbia,001,District of Columbia,8.0,11,1
+55,Wisconsin,027,Dodge,2.0,55,27
+36,New York,029,Erie,2.0,36,29
+42,Pennsylvania,003,Allegheny,2.0,42,3
+42,Pennsylvania,003,Allegheny,5.0,42,3
+13,Georgia,223,Paulding,3.0,13,223
+25,Massachusetts,027,Worcester,8.0,25,27
+25,Massachusetts,025,Suffolk,3.0,25,25
+25,Massachusetts,009,Essex,2.0,25,9
+06,California,075,San Francisco,5.0,6,75
+48,Texas,309,McLennan,1.0,48,309
+06,California,081,San Mateo,3.0,6,81
+25,Massachusetts,013,Hampden,2.0,25,13
+48,Texas,245,Jefferson,2.0,48,245
+02,Alaska,090,Fairbanks North Star ,6.0,2,90
+37,North Carolina,119,Mecklenburg,5.0,37,119
+51,Virginia,510,Alexandria City,3.0,51,510
+40,Oklahoma,143,Tulsa,3.0,40,143
+34,New Jersey,013,Essex,7.0,34,13
+06,California,083,Santa Barbara,6.0,6,83
+04,Arizona,019,Pima,6.0,4,19
+06,California,001,Alameda,1.0,6,1
+80,Country Of Mexico,006,CHIHUAHUA STATE,3.0,80,6
+54,West Virginia,029,Hancock,3.0,54,29
+48,Texas,141,El Paso,10.0,48,141
+06,California,037,Los Angeles,6.0,6,37
+06,California,037,Los Angeles,16.0,6,37
+02,Alaska,090,Fairbanks North Star ,16.0,2,90
+09,Connecticut,001,Fairfield,5.0,9,1
+06,California,083,Santa Barbara,0.0,6,83
+06,California,073,San Diego,2.0,6,73
+30,Montana,049,Lewis and Clark,1.0,30,49
+06,California,067,Sacramento,20.0,6,67
+32,Nevada,031,Washoe,5.0,32,31
+12,Florida,086,Miami-Dade,2.0,12,86
+13,Georgia,089,DeKalb,2.0,13,89
+01,Alabama,073,Jefferson,3.0,1,73
+72,Puerto Rico,113,Ponce,5.0,72,113
+06,California,019,Fresno,5.0,6,19
+06,California,019,Fresno,6.0,6,19
+32,Nevada,031,Washoe,7.0,32,31
+36,New York,029,Erie,6.0,36,29
+18,Indiana,003,Allen,7.0,18,3
+36,New York,005,Bronx,3.0,36,5
+29,Missouri,510,St. Louis City,3.0,29,510
+30,Montana,031,Gallatin,2.0,30,31
+48,Texas,141,El Paso,5.0,48,141
+42,Pennsylvania,017,Bucks,6.0,42,17
+39,Ohio,049,Franklin,3.0,39,49
+39,Ohio,035,Cuyahoga,7.0,39,35
+06,California,085,Santa Clara,7.0,6,85
+06,California,023,Humboldt,2.0,6,23
+32,Nevada,003,Clark,3.0,32,3
+48,Texas,201,Harris,2.0,48,201
+35,New Mexico,001,Bernalillo,2.0,35,1
+22,Louisiana,033,East Baton Rouge,8.0,22,33
+42,Pennsylvania,049,Erie,9.0,42,49
+06,California,037,Los Angeles,5.0,6,37
+42,Pennsylvania,073,Lawrence,5.0,42,73
+06,California,037,Los Angeles,1.0,6,37
+26,Michigan,163,Wayne,2.0,26,163
+34,New Jersey,017,Hudson,6.0,34,17
+41,Oregon,051,Multnomah,2.0,41,51
+21,Kentucky,111,Jefferson,3.0,21,111
+21,Kentucky,111,Jefferson,3.0,21,111
+18,Indiana,163,Vanderburgh,5.0,18,163
+06,California,071,San Bernardino,5.0,6,71
+06,California,071,San Bernardino,6.0,6,71
+06,California,037,Los Angeles,3.0,6,37
+06,California,037,Los Angeles,1.0,6,37
+50,Vermont,021,Rutland,3.0,50,21
+26,Michigan,163,Wayne,3.0,26,163
+26,Michigan,163,Wayne,8.0,26,163
+12,Florida,086,Miami-Dade,3.0,12,86
+06,California,025,Imperial,2.0,6,25
+06,California,101,Sutter,1.0,6,101
+06,California,065,Riverside,2.0,6,65
+20,Kansas,209,Wyandotte,3.0,20,209
+06,California,037,Los Angeles,1.0,6,37
+06,California,037,Los Angeles,2.0,6,37
+12,Florida,031,Duval,6.0,12,31
+32,Nevada,031,Washoe,2.0,32,31
+54,West Virginia,029,Hancock,3.0,54,29
+41,Oregon,067,Washington,6.0,41,67
+06,California,023,Humboldt,2.0,6,23
+24,Maryland,019,Dorchester,2.0,24,19
+40,Oklahoma,001,Adair,2.0,40,1
+17,Illinois,163,Saint Clair,5.0,17,163
+08,Colorado,031,Denver,13.0,8,31
+48,Texas,479,Webb,9.0,48,479
+48,Texas,245,Jefferson,1.0,48,245
+39,Ohio,061,Hamilton,6.0,39,61
+34,New Jersey,013,Essex,7.0,34,13
+47,Tennessee,157,Shelby,2.0,47,157
+06,California,059,Orange,8.0,6,59
+22,Louisiana,033,East Baton Rouge,2.0,22,33
+22,Louisiana,033,East Baton Rouge,3.0,22,33
+06,California,037,Los Angeles,8.0,6,37
+06,California,019,Fresno,3.0,6,19
+06,California,019,Fresno,6.0,6,19
+12,Florida,086,Miami-Dade,3.0,12,86
+09,Connecticut,001,Fairfield,5.0,9,1
+26,Michigan,081,Kent,8.0,26,81
+06,California,083,Santa Barbara,2.0,6,83
+01,Alabama,073,Jefferson,8.0,1,73
+48,Texas,439,Tarrant,2.0,48,439
+06,California,071,San Bernardino,9.0,6,71
+42,Pennsylvania,021,Cambria,2.0,42,21
+09,Connecticut,003,Hartford,2.0,9,3
+09,Connecticut,003,Hartford,5.0,9,3
+50,Vermont,021,Rutland,6.0,50,21
+26,Michigan,163,Wayne,5.0,26,163
+06,California,071,San Bernardino,6.0,6,71
+47,Tennessee,009,Blount,2.0,47,9
+24,Maryland,027,Howard,6.0,24,27
+18,Indiana,097,Marion,3.0,18,97
+08,Colorado,067,La Plata,2.0,8,67
+13,Georgia,089,DeKalb,8.0,13,89
+01,Alabama,073,Jefferson,3.0,1,73
+20,Kansas,209,Wyandotte,3.0,20,209
+51,Virginia,087,Henrico,1.0,51,87
+36,New York,101,Steuben,1.0,36,101
+47,Tennessee,157,Shelby,3.0,47,157
+36,New York,001,Albany,2.0,36,1
+36,New York,001,Albany,3.0,36,1
+36,New York,029,Erie,1.0,36,29
+36,New York,005,Bronx,2.0,36,5
+18,Indiana,089,Lake,15.0,18,89
+29,Missouri,510,St. Louis City,7.0,29,510
+40,Oklahoma,001,Adair,2.0,40,1
+39,Ohio,013,Belmont,2.0,39,13
+39,Ohio,061,Hamilton,5.0,39,61
+32,Nevada,003,Clark,2.0,32,3
+06,California,059,Orange,3.0,6,59
+06,California,037,Los Angeles,5.0,6,37
+12,Florida,095,Orange,3.0,12,95
+06,California,081,San Mateo,5.0,6,81
+47,Tennessee,157,Shelby,2.0,47,157
+37,North Carolina,119,Mecklenburg,5.0,37,119
+53,Washington,033,King,3.0,53,33
+27,Minnesota,037,Dakota,6.0,27,37
+42,Pennsylvania,101,Philadelphia,6.0,42,101
+06,California,083,Santa Barbara,5.0,6,83
+50,Vermont,007,Chittenden,5.0,50,7
+32,Nevada,031,Washoe,2.0,32,31
+09,Connecticut,009,New Haven,5.0,9,9
+06,California,023,Humboldt,2.0,6,23
+39,Ohio,035,Cuyahoga,10.0,39,35
+26,Michigan,163,Wayne,3.0,26,163
+26,Michigan,163,Wayne,7.0,26,163
+06,California,037,Los Angeles,5.0,6,37
+29,Missouri,510,St. Louis City,3.0,29,510
+48,Texas,309,McLennan,1.0,48,309
+47,Tennessee,037,Davidson,5.0,47,37
+35,New Mexico,001,Bernalillo,2.0,35,1
+49,Utah,057,Weber,8.0,49,57
+34,New Jersey,017,Hudson,6.0,34,17
+17,Illinois,163,Saint Clair,3.0,17,163
+06,California,073,San Diego,6.0,6,73
+06,California,059,Orange,0.0,6,59
+40,Oklahoma,109,Oklahoma,3.0,40,109
+36,New York,101,Steuben,2.0,36,101
+51,Virginia,650,Hampton City,5.0,51,650
+36,New York,055,Monroe,5.0,36,55
+42,Pennsylvania,021,Cambria,3.0,42,21
+47,Tennessee,157,Shelby,5.0,47,157
+48,Texas,439,Tarrant,5.0,48,439
+18,Indiana,163,Vanderburgh,6.0,18,163
+06,California,067,Sacramento,5.0,6,67
+48,Texas,453,Travis,6.0,48,453
+39,Ohio,113,Montgomery,5.0,39,113
+04,Arizona,013,Maricopa,14.0,4,13
+04,Arizona,019,Pima,5.0,4,19
+37,North Carolina,183,Wake,5.0,37,183
+15,Hawaii,003,Honolulu,7.0,15,3
+20,Kansas,209,Wyandotte,2.0,20,209
+72,Puerto Rico,061,Guaynabo,5.0,72,61
+08,Colorado,067,La Plata,1.0,8,67
+49,Utah,049,Utah,0.0,49,49
+08,Colorado,031,Denver,3.0,8,31
+06,California,001,Alameda,6.0,6,1
+06,California,067,Sacramento,5.0,6,67
+53,Washington,033,King,9.0,53,33
+06,California,055,Napa,8.0,6,55
+40,Oklahoma,109,Oklahoma,9.0,40,109
+06,California,025,Imperial,2.0,6,25
+06,California,041,Marin,6.0,6,41
+06,California,013,Contra Costa,5.0,6,13
+48,Texas,029,Bexar,3.0,48,29
+72,Puerto Rico,127,San Juan,13.0,72,127
+06,California,037,Los Angeles,7.0,6,37
+48,Texas,439,Tarrant,5.0,48,439
+06,California,095,Solano,2.0,6,95
+39,Ohio,135,Preble,2.0,39,135
+11,District Of Columbia,001,District of Columbia,5.0,11,1
+42,Pennsylvania,101,Philadelphia,2.0,42,101
+15,Hawaii,003,Honolulu,2.0,15,3
+49,Utah,035,Salt Lake,6.0,49,35
+06,California,019,Fresno,7.0,6,19
+50,Vermont,007,Chittenden,2.0,50,7
+18,Indiana,097,Marion,3.0,18,97
+04,Arizona,013,Maricopa,5.0,4,13
+29,Missouri,510,St. Louis City,5.0,29,510
+01,Alabama,073,Jefferson,5.0,1,73
+72,Puerto Rico,021,Bayamon,6.0,72,21
+40,Oklahoma,109,Oklahoma,9.0,40,109
+09,Connecticut,009,New Haven,2.0,9,9
+42,Pennsylvania,003,Allegheny,9.0,42,3
+09,Connecticut,005,Litchfield,1.0,9,5
+06,California,073,San Diego,5.0,6,73
+12,Florida,011,Broward,7.0,12,11
+29,Missouri,510,St. Louis City,5.0,29,510
+06,California,075,San Francisco,6.0,6,75
+48,Texas,029,Bexar,1.0,48,29
+06,California,027,Inyo,7.0,6,27
+11,District Of Columbia,001,District of Columbia,9.0,11,1
+08,Colorado,123,Weld,1.0,8,123
+48,Texas,439,Tarrant,5.0,48,439
+06,California,083,Santa Barbara,0.0,6,83
+13,Georgia,121,Fulton,7.0,13,121
+06,California,053,Monterey,1.0,6,53
+42,Pennsylvania,069,Lackawanna,3.0,42,69
+35,New Mexico,001,Bernalillo,6.0,35,1
+06,California,037,Los Angeles,2.0,6,37
+08,Colorado,031,Denver,3.0,8,31
+04,Arizona,013,Maricopa,0.0,4,13
+72,Puerto Rico,025,Caguas,7.0,72,25
+55,Wisconsin,079,Milwaukee,3.0,55,79
+55,Wisconsin,079,Milwaukee,3.0,55,79
+49,Utah,035,Salt Lake,3.0,49,35
+06,California,067,Sacramento,3.0,6,67
+48,Texas,201,Harris,7.0,48,201
+06,California,059,Orange,3.0,6,59
+25,Massachusetts,025,Suffolk,5.0,25,25
+12,Florida,011,Broward,5.0,12,11
+12,Florida,011,Broward,8.0,12,11
+30,Montana,031,Gallatin,2.0,30,31
+04,Arizona,013,Maricopa,13.0,4,13
+04,Arizona,013,Maricopa,17.0,4,13
+06,California,059,Orange,11.0,6,59
+22,Louisiana,033,East Baton Rouge,2.0,22,33
+22,Louisiana,033,East Baton Rouge,3.0,22,33
+72,Puerto Rico,113,Ponce,6.0,72,113
+06,California,037,Los Angeles,3.0,6,37
+42,Pennsylvania,021,Cambria,0.0,42,21
+06,California,083,Santa Barbara,5.0,6,83
+35,New Mexico,001,Bernalillo,1.0,35,1
+02,Alaska,090,Fairbanks North Star ,2.0,2,90
+26,Michigan,163,Wayne,5.0,26,163
+39,Ohio,013,Belmont,3.0,39,13
+15,Hawaii,003,Honolulu,2.0,15,3
+27,Minnesota,037,Dakota,0.0,27,37
+54,West Virginia,009,Brooke,5.0,54,9
+06,California,037,Los Angeles,5.0,6,37
+48,Texas,479,Webb,7.0,48,479
+48,Texas,479,Webb,9.0,48,479
+06,California,083,Santa Barbara,2.0,6,83
+48,Texas,245,Jefferson,2.0,48,245
+06,California,025,Imperial,2.0,6,25
+48,Texas,141,El Paso,1.0,48,141
+12,Florida,086,Miami-Dade,5.0,12,86
+12,Florida,011,Broward,6.0,12,11
+29,Missouri,510,St. Louis City,3.0,29,510
+04,Arizona,013,Maricopa,7.0,4,13
+47,Tennessee,037,Davidson,5.0,47,37
+06,California,013,Contra Costa,6.0,6,13
+72,Puerto Rico,113,Ponce,14.0,72,113
+51,Virginia,650,Hampton City,3.0,51,650
+12,Florida,103,Pinellas,1.0,12,103
+06,California,065,Riverside,2.0,6,65
+06,California,065,Riverside,1.0,6,65
+47,Tennessee,157,Shelby,5.0,47,157
+27,Minnesota,053,Hennepin,1.0,27,53
+12,Florida,031,Duval,5.0,12,31
+06,California,025,Imperial,3.0,6,25
+06,California,001,Alameda,3.0,6,1
+06,California,001,Alameda,6.0,6,1
+39,Ohio,135,Preble,2.0,39,135
+04,Arizona,013,Maricopa,5.0,4,13
+53,Washington,033,King,6.0,53,33
+08,Colorado,031,Denver,5.0,8,31
+48,Texas,141,El Paso,2.0,48,141
+21,Kentucky,111,Jefferson,5.0,21,111
+25,Massachusetts,025,Suffolk,9.0,25,25
+08,Colorado,001,Adams,3.0,8,1
+06,California,059,Orange,9.0,6,59
+08,Colorado,077,Mesa,2.0,8,77
+06,California,083,Santa Barbara,3.0,6,83
+06,California,037,Los Angeles,2.0,6,37
+06,California,037,Los Angeles,3.0,6,37
+06,California,001,Alameda,5.0,6,1
+06,California,083,Santa Barbara,1.0,6,83
+06,California,073,San Diego,7.0,6,73
+06,California,073,San Diego,8.0,6,73
+04,Arizona,013,Maricopa,1.0,4,13
+04,Arizona,013,Maricopa,5.0,4,13
+32,Nevada,031,Washoe,10.0,32,31
+19,Iowa,163,Scott,2.0,19,163
+19,Iowa,163,Scott,3.0,19,163
+26,Michigan,163,Wayne,3.0,26,163
+34,New Jersey,017,Hudson,10.0,34,17
+19,Iowa,153,Polk,3.0,19,153
+21,Kentucky,111,Jefferson,2.0,21,111
+18,Indiana,163,Vanderburgh,3.0,18,163
+26,Michigan,163,Wayne,5.0,26,163
+26,Michigan,163,Wayne,10.0,26,163
+26,Michigan,163,Wayne,6.0,26,163
+12,Florida,086,Miami-Dade,3.0,12,86
+24,Maryland,027,Howard,3.0,24,27
+06,California,059,Orange,3.0,6,59
+18,Indiana,097,Marion,5.0,18,97
+31,Nebraska,055,Douglas,2.0,31,55
+01,Alabama,073,Jefferson,3.0,1,73
+06,California,059,Orange,6.0,6,59
+06,California,037,Los Angeles,5.0,6,37
+06,California,019,Fresno,2.0,6,19
+36,New York,005,Bronx,7.0,36,5
+29,Missouri,510,St. Louis City,5.0,29,510
+42,Pennsylvania,003,Allegheny,3.0,42,3
+36,New York,029,Erie,0.0,36,29
