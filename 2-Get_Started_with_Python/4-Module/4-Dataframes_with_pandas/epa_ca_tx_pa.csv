@@ -1,0 +1,547 @@
+state_code,state_name,county_code,county_name,aqi
+6,California,1,Alameda,11.0
+6,California,7,Butte,6.0
+6,California,19,Fresno,11.0
+6,California,29,Kern,7.0
+6,California,29,Kern,3.0
+6,California,29,Kern,7.0
+6,California,37,Los Angeles,13.0
+6,California,37,Los Angeles,18.0
+6,California,51,Mono,5.0
+6,California,67,Sacramento,35.0
+6,California,71,San Bernardino,18.0
+6,California,73,San Diego,23.0
+6,California,83,Santa Barbara,0.0
+6,California,89,Shasta,11.0
+42,Pennsylvania,49,Erie,7.0
+42,Pennsylvania,101,Philadelphia,13.0
+48,Texas,29,Bexar,22.0
+6,California,23,Humboldt,30.0
+6,California,23,Humboldt,11.0
+6,California,65,Riverside,18.0
+6,California,71,San Bernardino,11.0
+6,California,71,San Bernardino,22.0
+6,California,71,San Bernardino,11.0
+6,California,73,San Diego,24.0
+6,California,83,Santa Barbara,11.0
+6,California,83,Santa Barbara,7.0
+6,California,85,Santa Clara,11.0
+6,California,97,Sonoma,11.0
+6,California,99,Stanislaus,0.0
+42,Pennsylvania,43,Dauphin,6.0
+42,Pennsylvania,71,Lancaster,5.0
+42,Pennsylvania,101,Philadelphia,10.0
+48,Texas,29,Bexar,6.0
+48,Texas,113,Dallas,2.0
+6,California,7,Butte,9.0
+6,California,29,Kern,19.0
+6,California,37,Los Angeles,23.0
+6,California,37,Los Angeles,33.0
+6,California,37,Los Angeles,10.0
+6,California,53,Monterey,16.0
+6,California,61,Placer,13.0
+6,California,83,Santa Barbara,47.0
+6,California,83,Santa Barbara,0.0
+6,California,85,Santa Clara,6.0
+6,California,107,Tulare,11.0
+42,Pennsylvania,11,Berks,19.0
+42,Pennsylvania,11,Berks,16.0
+42,Pennsylvania,49,Erie,18.0
+42,Pennsylvania,69,Lackawanna,5.0
+42,Pennsylvania,101,Philadelphia,13.0
+42,Pennsylvania,125,Washington,9.0
+48,Texas,141,El Paso,47.0
+6,California,1,Alameda,11.0
+6,California,13,Contra Costa,15.0
+6,California,17,El Dorado,16.0
+6,California,19,Fresno,5.0
+6,California,45,Mendocino,0.0
+6,California,65,Riverside,13.0
+6,California,65,Riverside,40.0
+6,California,73,San Diego,10.0
+6,California,95,Solano,3.0
+42,Pennsylvania,3,Allegheny,5.0
+42,Pennsylvania,79,Luzerne,11.0
+48,Texas,29,Bexar,34.0
+48,Texas,29,Bexar,18.0
+48,Texas,113,Dallas,25.0
+48,Texas,141,El Paso,7.0
+48,Texas,141,El Paso,18.0
+48,Texas,201,Harris,14.0
+6,California,1,Alameda,11.0
+6,California,7,Butte,14.0
+6,California,17,El Dorado,8.0
+6,California,17,El Dorado,6.0
+6,California,19,Fresno,35.0
+6,California,37,Los Angeles,38.0
+6,California,37,Los Angeles,22.0
+6,California,37,Los Angeles,93.0
+6,California,37,Los Angeles,10.0
+6,California,37,Los Angeles,11.0
+6,California,61,Placer,6.0
+6,California,65,Riverside,43.0
+6,California,71,San Bernardino,5.0
+6,California,73,San Diego,16.0
+6,California,73,San Diego,7.0
+6,California,79,San Luis Obispo,13.0
+6,California,85,Santa Clara,10.0
+6,California,111,Ventura,7.0
+42,Pennsylvania,3,Allegheny,9.0
+42,Pennsylvania,3,Allegheny,22.0
+42,Pennsylvania,69,Lackawanna,11.0
+42,Pennsylvania,107,Schuylkill,9.0
+48,Texas,141,El Paso,40.0
+48,Texas,141,El Paso,30.0
+48,Texas,201,Harris,11.0
+48,Texas,201,Harris,16.0
+48,Texas,439,Tarrant,10.0
+6,California,17,El Dorado,18.0
+6,California,37,Los Angeles,17.0
+6,California,37,Los Angeles,24.0
+6,California,41,Marin,8.0
+6,California,53,Monterey,7.0
+6,California,53,Monterey,1.0
+6,California,55,Napa,10.0
+6,California,61,Placer,16.0
+6,California,71,San Bernardino,6.0
+6,California,73,San Diego,6.0
+6,California,75,San Francisco,20.0
+6,California,79,San Luis Obispo,6.0
+6,California,101,Sutter,28.0
+6,California,107,Tulare,8.0
+6,California,111,Ventura,19.0
+42,Pennsylvania,3,Allegheny,8.0
+42,Pennsylvania,7,Beaver,7.0
+42,Pennsylvania,21,Cambria,23.0
+42,Pennsylvania,107,Schuylkill,6.0
+48,Texas,201,Harris,9.0
+48,Texas,201,Harris,34.0
+48,Texas,439,Tarrant,5.0
+6,California,19,Fresno,23.0
+6,California,29,Kern,8.0
+6,California,37,Los Angeles,20.0
+6,California,53,Monterey,6.0
+6,California,59,Orange,47.0
+6,California,59,Orange,3.0
+6,California,61,Placer,10.0
+6,California,67,Sacramento,7.0
+6,California,67,Sacramento,5.0
+6,California,71,San Bernardino,2.0
+6,California,71,San Bernardino,10.0
+6,California,75,San Francisco,8.0
+6,California,77,San Joaquin,3.0
+6,California,77,San Joaquin,5.0
+6,California,85,Santa Clara,10.0
+42,Pennsylvania,43,Dauphin,16.0
+42,Pennsylvania,43,Dauphin,14.0
+42,Pennsylvania,101,Philadelphia,24.0
+48,Texas,141,El Paso,40.0
+48,Texas,141,El Paso,15.0
+48,Texas,201,Harris,9.0
+48,Texas,201,Harris,11.0
+48,Texas,439,Tarrant,15.0
+48,Texas,453,Travis,11.0
+6,California,1,Alameda,15.0
+6,California,9,Calaveras,3.0
+6,California,13,Contra Costa,13.0
+6,California,19,Fresno,15.0
+6,California,37,Los Angeles,59.0
+6,California,59,Orange,16.0
+6,California,67,Sacramento,20.0
+6,California,67,Sacramento,5.0
+6,California,73,San Diego,24.0
+6,California,73,San Diego,6.0
+6,California,75,San Francisco,16.0
+6,California,75,San Francisco,16.0
+6,California,83,Santa Barbara,2.0
+6,California,101,Sutter,5.0
+6,California,107,Tulare,17.0
+42,Pennsylvania,3,Allegheny,15.0
+42,Pennsylvania,49,Erie,6.0
+42,Pennsylvania,89,Monroe,1.0
+42,Pennsylvania,125,Washington,2.0
+42,Pennsylvania,125,Washington,0.0
+42,Pennsylvania,129,Westmoreland,1.0
+48,Texas,29,Bexar,11.0
+48,Texas,479,Webb,10.0
+6,California,1,Alameda,5.0
+6,California,1,Alameda,11.0
+6,California,17,El Dorado,23.0
+6,California,37,Los Angeles,13.0
+6,California,37,Los Angeles,20.0
+6,California,45,Mendocino,8.0
+6,California,97,Sonoma,17.0
+42,Pennsylvania,17,Bucks,5.0
+42,Pennsylvania,69,Lackawanna,0.0
+42,Pennsylvania,101,Philadelphia,11.0
+48,Texas,29,Bexar,14.0
+48,Texas,113,Dallas,6.0
+48,Texas,141,El Paso,10.0
+48,Texas,141,El Paso,15.0
+6,California,17,El Dorado,6.0
+6,California,37,Los Angeles,14.0
+6,California,37,Los Angeles,28.0
+6,California,37,Los Angeles,16.0
+6,California,59,Orange,10.0
+6,California,59,Orange,47.0
+6,California,67,Sacramento,14.0
+6,California,73,San Diego,39.0
+6,California,83,Santa Barbara,2.0
+6,California,83,Santa Barbara,2.0
+6,California,85,Santa Clara,36.0
+6,California,95,Solano,14.0
+6,California,113,Yolo,6.0
+42,Pennsylvania,3,Allegheny,3.0
+42,Pennsylvania,73,Lawrence,14.0
+42,Pennsylvania,77,Lehigh,2.0
+42,Pennsylvania,125,Washington,1.0
+42,Pennsylvania,129,Westmoreland,0.0
+42,Pennsylvania,129,Westmoreland,1.0
+42,Pennsylvania,133,York,1.0
+48,Texas,29,Bexar,7.0
+48,Texas,141,El Paso,6.0
+48,Texas,479,Webb,18.0
+6,California,1,Alameda,6.0
+6,California,13,Contra Costa,8.0
+6,California,17,El Dorado,1.0
+6,California,25,Imperial,13.0
+6,California,37,Los Angeles,9.0
+6,California,37,Los Angeles,17.0
+6,California,59,Orange,5.0
+6,California,65,Riverside,7.0
+6,California,65,Riverside,8.0
+6,California,73,San Diego,6.0
+6,California,107,Tulare,10.0
+6,California,107,Tulare,5.0
+6,California,111,Ventura,5.0
+6,California,111,Ventura,2.0
+42,Pennsylvania,3,Allegheny,5.0
+42,Pennsylvania,17,Bucks,9.0
+42,Pennsylvania,101,Philadelphia,8.0
+48,Texas,29,Bexar,8.0
+48,Texas,141,El Paso,1.0
+48,Texas,141,El Paso,7.0
+48,Texas,141,El Paso,2.0
+48,Texas,141,El Paso,8.0
+48,Texas,201,Harris,3.0
+48,Texas,201,Harris,3.0
+48,Texas,479,Webb,6.0
+6,California,19,Fresno,9.0
+6,California,37,Los Angeles,14.0
+6,California,45,Mendocino,17.0
+6,California,67,Sacramento,5.0
+6,California,67,Sacramento,5.0
+6,California,71,San Bernardino,3.0
+6,California,111,Ventura,5.0
+42,Pennsylvania,3,Allegheny,10.0
+42,Pennsylvania,3,Allegheny,15.0
+42,Pennsylvania,7,Beaver,6.0
+42,Pennsylvania,49,Erie,7.0
+42,Pennsylvania,69,Lackawanna,5.0
+42,Pennsylvania,91,Montgomery,3.0
+48,Texas,141,El Paso,5.0
+6,California,1,Alameda,20.0
+6,California,13,Contra Costa,8.0
+6,California,25,Imperial,3.0
+6,California,29,Kern,2.0
+6,California,37,Los Angeles,2.0
+6,California,37,Los Angeles,24.0
+6,California,37,Los Angeles,14.0
+6,California,41,Marin,16.0
+6,California,61,Placer,6.0
+6,California,65,Riverside,11.0
+6,California,73,San Diego,10.0
+6,California,73,San Diego,32.0
+6,California,77,San Joaquin,6.0
+6,California,83,Santa Barbara,5.0
+6,California,83,Santa Barbara,3.0
+6,California,101,Sutter,5.0
+42,Pennsylvania,17,Bucks,1.0
+42,Pennsylvania,21,Cambria,11.0
+42,Pennsylvania,21,Cambria,7.0
+42,Pennsylvania,101,Philadelphia,7.0
+42,Pennsylvania,125,Washington,1.0
+48,Texas,439,Tarrant,6.0
+48,Texas,479,Webb,6.0
+6,California,1,Alameda,5.0
+6,California,7,Butte,11.0
+6,California,13,Contra Costa,6.0
+6,California,19,Fresno,10.0
+6,California,19,Fresno,3.0
+6,California,59,Orange,6.0
+6,California,67,Sacramento,9.0
+6,California,71,San Bernardino,6.0
+6,California,71,San Bernardino,17.0
+6,California,81,San Mateo,9.0
+6,California,83,Santa Barbara,3.0
+6,California,95,Solano,5.0
+6,California,99,Stanislaus,6.0
+42,Pennsylvania,3,Allegheny,7.0
+42,Pennsylvania,3,Allegheny,2.0
+42,Pennsylvania,17,Bucks,17.0
+42,Pennsylvania,101,Philadelphia,2.0
+42,Pennsylvania,125,Washington,3.0
+48,Texas,141,El Paso,5.0
+48,Texas,141,El Paso,6.0
+6,California,13,Contra Costa,3.0
+6,California,25,Imperial,26.0
+6,California,25,Imperial,0.0
+6,California,37,Los Angeles,5.0
+6,California,37,Los Angeles,3.0
+6,California,37,Los Angeles,3.0
+6,California,37,Los Angeles,7.0
+6,California,65,Riverside,7.0
+6,California,73,San Diego,9.0
+6,California,75,San Francisco,10.0
+6,California,87,Santa Cruz,3.0
+42,Pennsylvania,1,Adams,3.0
+42,Pennsylvania,11,Berks,8.0
+48,Texas,141,El Paso,14.0
+48,Texas,141,El Paso,5.0
+48,Texas,141,El Paso,9.0
+48,Texas,201,Harris,10.0
+6,California,13,Contra Costa,5.0
+6,California,37,Los Angeles,6.0
+6,California,53,Monterey,7.0
+6,California,67,Sacramento,9.0
+42,Pennsylvania,7,Beaver,5.0
+42,Pennsylvania,73,Lawrence,15.0
+42,Pennsylvania,95,Northampton,0.0
+42,Pennsylvania,101,Philadelphia,17.0
+42,Pennsylvania,125,Washington,2.0
+48,Texas,29,Bexar,8.0
+48,Texas,141,El Paso,14.0
+48,Texas,141,El Paso,7.0
+48,Texas,201,Harris,16.0
+48,Texas,439,Tarrant,8.0
+48,Texas,29,Bexar,5.0
+48,Texas,141,El Paso,5.0
+6,California,13,Contra Costa,6.0
+6,California,67,Sacramento,3.0
+48,Texas,141,El Paso,8.0
+6,California,37,Los Angeles,23.0
+48,Texas,201,Harris,3.0
+48,Texas,201,Harris,2.0
+42,Pennsylvania,3,Allegheny,1.0
+48,Texas,141,El Paso,2.0
+42,Pennsylvania,69,Lackawanna,0.0
+6,California,1,Alameda,5.0
+6,California,1,Alameda,8.0
+6,California,23,Humboldt,2.0
+6,California,37,Los Angeles,5.0
+6,California,45,Mendocino,3.0
+6,California,59,Orange,6.0
+6,California,65,Riverside,7.0
+42,Pennsylvania,3,Allegheny,8.0
+42,Pennsylvania,13,Blair,5.0
+42,Pennsylvania,69,Lackawanna,2.0
+42,Pennsylvania,101,Philadelphia,8.0
+48,Texas,61,Cameron,8.0
+48,Texas,113,Dallas,0.0
+48,Texas,141,El Paso,10.0
+48,Texas,141,El Paso,27.0
+48,Texas,201,Harris,2.0
+48,Texas,201,Harris,6.0
+48,Texas,245,Jefferson,3.0
+42,Pennsylvania,13,Blair,0.0
+6,California,53,Monterey,5.0
+6,California,53,Monterey,6.0
+6,California,59,Orange,6.0
+6,California,83,Santa Barbara,6.0
+6,California,37,Los Angeles,5.0
+6,California,95,Solano,5.0
+6,California,13,Contra Costa,2.0
+48,Texas,141,El Paso,11.0
+42,Pennsylvania,49,Erie,8.0
+48,Texas,29,Bexar,7.0
+42,Pennsylvania,7,Beaver,5.0
+6,California,45,Mendocino,7.0
+6,California,25,Imperial,13.0
+42,Pennsylvania,129,Westmoreland,0.0
+42,Pennsylvania,3,Allegheny,10.0
+6,California,73,San Diego,6.0
+6,California,97,Sonoma,3.0
+48,Texas,439,Tarrant,9.0
+48,Texas,201,Harris,5.0
+6,California,75,San Francisco,6.0
+48,Texas,479,Webb,8.0
+6,California,23,Humboldt,3.0
+6,California,65,Riverside,2.0
+6,California,37,Los Angeles,10.0
+6,California,71,San Bernardino,7.0
+48,Texas,141,El Paso,5.0
+6,California,19,Fresno,2.0
+48,Texas,141,El Paso,6.0
+42,Pennsylvania,3,Allegheny,7.0
+6,California,9,Calaveras,2.0
+6,California,19,Fresno,8.0
+6,California,25,Imperial,10.0
+6,California,25,Imperial,9.0
+6,California,25,Imperial,0.0
+6,California,37,Los Angeles,13.0
+6,California,45,Mendocino,5.0
+6,California,61,Placer,5.0
+6,California,71,San Bernardino,6.0
+6,California,71,San Bernardino,17.0
+6,California,81,San Mateo,13.0
+6,California,85,Santa Clara,8.0
+6,California,87,Santa Cruz,5.0
+6,California,109,Tuolumne,11.0
+42,Pennsylvania,43,Dauphin,6.0
+42,Pennsylvania,43,Dauphin,3.0
+42,Pennsylvania,49,Erie,14.0
+42,Pennsylvania,107,Schuylkill,0.0
+42,Pennsylvania,129,Westmoreland,0.0
+48,Texas,141,El Paso,3.0
+48,Texas,439,Tarrant,7.0
+48,Texas,453,Travis,5.0
+48,Texas,309,McLennan,3.0
+6,California,77,San Joaquin,15.0
+6,California,25,Imperial,2.0
+6,California,13,Contra Costa,8.0
+6,California,7,Butte,3.0
+6,California,71,San Bernardino,2.0
+6,California,37,Los Angeles,9.0
+6,California,83,Santa Barbara,2.0
+6,California,13,Contra Costa,8.0
+6,California,71,San Bernardino,13.0
+6,California,59,Orange,0.0
+6,California,67,Sacramento,5.0
+48,Texas,141,El Paso,11.0
+42,Pennsylvania,43,Dauphin,6.0
+6,California,59,Orange,0.0
+42,Pennsylvania,3,Allegheny,2.0
+42,Pennsylvania,3,Allegheny,3.0
+6,California,23,Humboldt,1.0
+6,California,83,Santa Barbara,2.0
+48,Texas,201,Harris,5.0
+6,California,99,Stanislaus,23.0
+6,California,77,San Joaquin,2.0
+6,California,7,Butte,10.0
+6,California,1,Alameda,5.0
+42,Pennsylvania,1,Adams,1.0
+6,California,83,Santa Barbara,2.0
+6,California,83,Santa Barbara,2.0
+6,California,65,Riverside,6.0
+6,California,71,San Bernardino,5.0
+6,California,83,Santa Barbara,2.0
+6,California,67,Sacramento,6.0
+48,Texas,141,El Paso,9.0
+6,California,37,Los Angeles,6.0
+48,Texas,141,El Paso,11.0
+42,Pennsylvania,3,Allegheny,2.0
+42,Pennsylvania,3,Allegheny,5.0
+6,California,75,San Francisco,5.0
+48,Texas,309,McLennan,1.0
+6,California,81,San Mateo,3.0
+48,Texas,245,Jefferson,2.0
+6,California,83,Santa Barbara,6.0
+6,California,1,Alameda,1.0
+48,Texas,141,El Paso,10.0
+6,California,37,Los Angeles,6.0
+6,California,37,Los Angeles,16.0
+6,California,83,Santa Barbara,0.0
+6,California,73,San Diego,2.0
+6,California,67,Sacramento,20.0
+6,California,19,Fresno,5.0
+6,California,19,Fresno,6.0
+48,Texas,141,El Paso,5.0
+42,Pennsylvania,17,Bucks,6.0
+6,California,85,Santa Clara,7.0
+6,California,23,Humboldt,2.0
+48,Texas,201,Harris,2.0
+42,Pennsylvania,49,Erie,9.0
+6,California,37,Los Angeles,5.0
+42,Pennsylvania,73,Lawrence,5.0
+6,California,37,Los Angeles,1.0
+6,California,71,San Bernardino,5.0
+6,California,71,San Bernardino,6.0
+6,California,37,Los Angeles,3.0
+6,California,37,Los Angeles,1.0
+6,California,25,Imperial,2.0
+6,California,101,Sutter,1.0
+6,California,65,Riverside,2.0
+6,California,37,Los Angeles,1.0
+6,California,37,Los Angeles,2.0
+6,California,23,Humboldt,2.0
+48,Texas,479,Webb,9.0
+48,Texas,245,Jefferson,1.0
+6,California,59,Orange,8.0
+6,California,37,Los Angeles,8.0
+6,California,19,Fresno,3.0
+6,California,19,Fresno,6.0
+6,California,83,Santa Barbara,2.0
+48,Texas,439,Tarrant,2.0
+6,California,71,San Bernardino,9.0
+42,Pennsylvania,21,Cambria,2.0
+6,California,71,San Bernardino,6.0
+6,California,59,Orange,3.0
+6,California,37,Los Angeles,5.0
+6,California,81,San Mateo,5.0
+42,Pennsylvania,101,Philadelphia,6.0
+6,California,83,Santa Barbara,5.0
+6,California,23,Humboldt,2.0
+6,California,37,Los Angeles,5.0
+48,Texas,309,McLennan,1.0
+6,California,73,San Diego,6.0
+6,California,59,Orange,0.0
+42,Pennsylvania,21,Cambria,3.0
+48,Texas,439,Tarrant,5.0
+6,California,67,Sacramento,5.0
+48,Texas,453,Travis,6.0
+6,California,1,Alameda,6.0
+6,California,67,Sacramento,5.0
+6,California,55,Napa,8.0
+6,California,25,Imperial,2.0
+6,California,41,Marin,6.0
+6,California,13,Contra Costa,5.0
+48,Texas,29,Bexar,3.0
+6,California,37,Los Angeles,7.0
+48,Texas,439,Tarrant,5.0
+6,California,95,Solano,2.0
+42,Pennsylvania,101,Philadelphia,2.0
+6,California,19,Fresno,7.0
+42,Pennsylvania,3,Allegheny,9.0
+6,California,73,San Diego,5.0
+6,California,75,San Francisco,6.0
+48,Texas,29,Bexar,1.0
+6,California,27,Inyo,7.0
+48,Texas,439,Tarrant,5.0
+6,California,83,Santa Barbara,0.0
+6,California,53,Monterey,1.0
+42,Pennsylvania,69,Lackawanna,3.0
+6,California,37,Los Angeles,2.0
+6,California,67,Sacramento,3.0
+48,Texas,201,Harris,7.0
+6,California,59,Orange,3.0
+6,California,59,Orange,11.0
+6,California,37,Los Angeles,3.0
+42,Pennsylvania,21,Cambria,0.0
+6,California,83,Santa Barbara,5.0
+6,California,37,Los Angeles,5.0
+48,Texas,479,Webb,7.0
+48,Texas,479,Webb,9.0
+6,California,83,Santa Barbara,2.0
+48,Texas,245,Jefferson,2.0
+6,California,25,Imperial,2.0
+48,Texas,141,El Paso,1.0
+6,California,13,Contra Costa,6.0
+6,California,65,Riverside,2.0
+6,California,65,Riverside,1.0
+6,California,25,Imperial,3.0
+6,California,1,Alameda,3.0
+6,California,1,Alameda,6.0
+48,Texas,141,El Paso,2.0
+6,California,59,Orange,9.0
+6,California,83,Santa Barbara,3.0
+6,California,37,Los Angeles,2.0
+6,California,37,Los Angeles,3.0
+6,California,1,Alameda,5.0
+6,California,83,Santa Barbara,1.0
+6,California,73,San Diego,7.0
+6,California,73,San Diego,8.0
+6,California,59,Orange,3.0
+6,California,59,Orange,6.0
+6,California,37,Los Angeles,5.0
+6,California,19,Fresno,2.0
+42,Pennsylvania,3,Allegheny,3.0

@@ -1,0 +1,1180 @@
+state_code,state_name,county_code,county_name,aqi
+4,Arizona,13,Maricopa,18.0
+4,Arizona,13,Maricopa,9.0
+4,Arizona,19,Pima,20.0
+8,Colorado,41,El Paso,9.0
+12,Florida,31,Duval,15.0
+12,Florida,31,Duval,13.0
+12,Florida,57,Hillsborough,19.0
+15,Hawaii,3,Honolulu,10.0
+17,Illinois,167,Sangamon,20.0
+18,Indiana,97,Marion,32.0
+21,Kentucky,101,Henderson,8.0
+21,Kentucky,111,Jefferson,6.0
+21,Kentucky,145,McCracken,13.0
+21,Kentucky,145,McCracken,13.0
+22,Louisiana,33,East Baton Rouge,5.0
+24,Maryland,510,Baltimore (City),33.0
+25,Massachusetts,25,Suffolk,13.0
+26,Michigan,163,Wayne,19.0
+27,Minnesota,137,Saint Louis,16.0
+29,Missouri,189,Saint Louis,10.0
+34,New Jersey,3,Bergen,41.0
+34,New Jersey,23,Middlesex,17.0
+35,New Mexico,1,Bernalillo,11.0
+35,New Mexico,45,San Juan,6.0
+36,New York,61,New York,13.0
+36,New York,61,New York,24.0
+36,New York,63,Niagara,13.0
+37,North Carolina,119,Mecklenburg,28.0
+39,Ohio,49,Franklin,10.0
+39,Ohio,61,Hamilton,17.0
+40,Oklahoma,109,Oklahoma,14.0
+41,Oregon,35,Klamath,31.0
+41,Oregon,51,Multnomah,28.0
+47,Tennessee,157,Shelby,38.0
+49,Utah,35,Salt Lake,19.0
+50,Vermont,7,Chittenden,18.0
+50,Vermont,7,Chittenden,20.0
+51,Virginia,59,Fairfax,39.0
+51,Virginia,710,Norfolk City,15.0
+51,Virginia,760,Richmond City,17.0
+53,Washington,33,King,55.0
+53,Washington,33,King,22.0
+53,Washington,77,Yakima,35.0
+55,Wisconsin,79,Milwaukee,10.0
+4,Arizona,13,Maricopa,56.0
+4,Arizona,19,Pima,30.0
+8,Colorado,13,Boulder,28.0
+8,Colorado,41,El Paso,9.0
+8,Colorado,41,El Paso,9.0
+15,Hawaii,3,Honolulu,6.0
+17,Illinois,167,Sangamon,26.0
+18,Indiana,97,Marion,27.0
+19,Iowa,153,Polk,14.0
+20,Kansas,173,Sedgwick,16.0
+22,Louisiana,71,Orleans,5.0
+24,Maryland,1,Allegany,9.0
+24,Maryland,31,Montgomery,24.0
+26,Michigan,163,Wayne,17.0
+27,Minnesota,53,Hennepin,16.0
+29,Missouri,47,Clay,6.0
+29,Missouri,95,Jackson,3.0
+30,Montana,63,Missoula,14.0
+32,Nevada,31,Washoe,52.0
+32,Nevada,31,Washoe,8.0
+34,New Jersey,7,Camden,7.0
+35,New Mexico,45,San Juan,17.0
+35,New Mexico,45,San Juan,14.0
+36,New York,55,Monroe,18.0
+36,New York,63,Niagara,6.0
+36,New York,93,Schenectady,19.0
+39,Ohio,49,Franklin,11.0
+39,Ohio,95,Lucas,13.0
+40,Oklahoma,27,Cleveland,7.0
+40,Oklahoma,143,Tulsa,13.0
+40,Oklahoma,143,Tulsa,16.0
+47,Tennessee,157,Shelby,74.0
+49,Utah,11,Davis,22.0
+49,Utah,35,Salt Lake,19.0
+51,Virginia,59,Fairfax,15.0
+51,Virginia,510,Alexandria City,13.0
+51,Virginia,700,Newport News City,8.0
+53,Washington,33,King,44.0
+53,Washington,61,Snohomish,76.0
+53,Washington,63,Spokane,32.0
+54,West Virginia,25,Greenbrier,2.0
+55,Wisconsin,79,Milwaukee,22.0
+72,Puerto Rico,127,San Juan,35.0
+72,Puerto Rico,127,San Juan,18.0
+1,Alabama,73,Jefferson,23.0
+4,Arizona,13,Maricopa,66.0
+4,Arizona,13,Maricopa,14.0
+4,Arizona,13,Maricopa,60.0
+4,Arizona,19,Pima,20.0
+4,Arizona,19,Pima,36.0
+8,Colorado,41,El Paso,25.0
+8,Colorado,41,El Paso,7.0
+8,Colorado,41,El Paso,10.0
+8,Colorado,41,El Paso,8.0
+11,District Of Columbia,1,District of Columbia,22.0
+12,Florida,11,Broward,17.0
+12,Florida,11,Broward,24.0
+12,Florida,11,Broward,15.0
+12,Florida,57,Hillsborough,13.0
+13,Georgia,89,DeKalb,8.0
+17,Illinois,167,Sangamon,16.0
+18,Indiana,141,St. Joseph,9.0
+18,Indiana,163,Vanderburgh,15.0
+25,Massachusetts,25,Suffolk,23.0
+26,Michigan,99,Macomb,31.0
+27,Minnesota,123,Ramsey,20.0
+31,Nebraska,55,Douglas,28.0
+32,Nevada,3,Clark,13.0
+34,New Jersey,1,Atlantic,26.0
+34,New Jersey,3,Bergen,11.0
+35,New Mexico,1,Bernalillo,13.0
+36,New York,59,Nassau,7.0
+36,New York,63,Niagara,9.0
+37,North Carolina,119,Mecklenburg,11.0
+49,Utah,35,Salt Lake,31.0
+49,Utah,49,Utah,42.0
+49,Utah,49,Utah,15.0
+53,Washington,77,Yakima,58.0
+53,Washington,77,Yakima,57.0
+55,Wisconsin,79,Milwaukee,14.0
+55,Wisconsin,79,Milwaukee,9.0
+55,Wisconsin,101,Racine,35.0
+72,Puerto Rico,127,San Juan,28.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,45.0
+4,Arizona,13,Maricopa,8.0
+4,Arizona,13,Maricopa,18.0
+4,Arizona,19,Pima,16.0
+4,Arizona,19,Pima,30.0
+4,Arizona,19,Pima,5.0
+8,Colorado,5,Arapahoe,15.0
+8,Colorado,31,Denver,28.0
+8,Colorado,69,Larimer,5.0
+8,Colorado,69,Larimer,6.0
+9,Connecticut,1,Fairfield,24.0
+12,Florida,11,Broward,5.0
+12,Florida,31,Duval,13.0
+12,Florida,31,Duval,16.0
+12,Florida,86,Miami-Dade,43.0
+15,Hawaii,3,Honolulu,5.0
+15,Hawaii,3,Honolulu,7.0
+17,Illinois,167,Sangamon,14.0
+19,Iowa,153,Polk,18.0
+21,Kentucky,111,Jefferson,15.0
+21,Kentucky,145,McCracken,8.0
+24,Maryland,33,Prince George's,3.0
+25,Massachusetts,13,Hampden,19.0
+26,Michigan,77,Kalamazoo,6.0
+26,Michigan,77,Kalamazoo,6.0
+27,Minnesota,53,Hennepin,32.0
+32,Nevada,31,Washoe,13.0
+34,New Jersey,17,Hudson,32.0
+34,New Jersey,23,Middlesex,20.0
+34,New Jersey,39,Union,16.0
+36,New York,47,Kings,48.0
+37,North Carolina,67,Forsyth,18.0
+37,North Carolina,67,Forsyth,23.0
+39,Ohio,35,Cuyahoga,36.0
+39,Ohio,35,Cuyahoga,31.0
+39,Ohio,35,Cuyahoga,11.0
+39,Ohio,99,Mahoning,2.0
+41,Oregon,29,Jackson,51.0
+41,Oregon,39,Lane,32.0
+47,Tennessee,93,Knox,27.0
+47,Tennessee,157,Shelby,7.0
+49,Utah,35,Salt Lake,20.0
+49,Utah,49,Utah,23.0
+51,Virginia,13,Arlington,16.0
+51,Virginia,710,Norfolk City,6.0
+54,West Virginia,39,Kanawha,8.0
+1,Alabama,73,Jefferson,5.0
+4,Arizona,19,Pima,13.0
+4,Arizona,19,Pima,11.0
+4,Arizona,19,Pima,5.0
+8,Colorado,13,Boulder,11.0
+8,Colorado,41,El Paso,31.0
+8,Colorado,41,El Paso,23.0
+8,Colorado,41,El Paso,9.0
+8,Colorado,77,Mesa,20.0
+9,Connecticut,1,Fairfield,24.0
+12,Florida,11,Broward,8.0
+12,Florida,31,Duval,11.0
+12,Florida,31,Duval,18.0
+12,Florida,57,Hillsborough,15.0
+12,Florida,57,Hillsborough,17.0
+12,Florida,95,Orange,9.0
+12,Florida,99,Palm Beach,18.0
+12,Florida,103,Pinellas,7.0
+12,Florida,115,Sarasota,7.0
+15,Hawaii,3,Honolulu,7.0
+17,Illinois,31,Cook,9.0
+18,Indiana,141,St. Joseph,17.0
+20,Kansas,173,Sedgwick,9.0
+24,Maryland,5,Baltimore,15.0
+26,Michigan,163,Wayne,7.0
+29,Missouri,510,St. Louis City,6.0
+30,Montana,63,Missoula,19.0
+31,Nebraska,55,Douglas,8.0
+31,Nebraska,109,Lancaster,23.0
+34,New Jersey,5,Burlington,45.0
+34,New Jersey,7,Camden,18.0
+34,New Jersey,27,Morris,17.0
+35,New Mexico,1,Bernalillo,54.0
+35,New Mexico,1,Bernalillo,10.0
+35,New Mexico,1,Bernalillo,16.0
+36,New York,61,New York,39.0
+36,New York,63,Niagara,6.0
+37,North Carolina,67,Forsyth,8.0
+39,Ohio,35,Cuyahoga,17.0
+39,Ohio,35,Cuyahoga,14.0
+39,Ohio,35,Cuyahoga,14.0
+39,Ohio,35,Cuyahoga,13.0
+39,Ohio,153,Summit,18.0
+41,Oregon,39,Lane,9.0
+47,Tennessee,93,Knox,39.0
+49,Utah,35,Salt Lake,9.0
+49,Utah,49,Utah,38.0
+49,Utah,49,Utah,16.0
+51,Virginia,59,Fairfax,47.0
+51,Virginia,59,Fairfax,9.0
+54,West Virginia,9,Brooke,6.0
+54,West Virginia,29,Hancock,5.0
+4,Arizona,13,Maricopa,33.0
+8,Colorado,31,Denver,19.0
+8,Colorado,41,El Paso,36.0
+8,Colorado,41,El Paso,24.0
+8,Colorado,41,El Paso,5.0
+8,Colorado,41,El Paso,20.0
+9,Connecticut,1,Fairfield,10.0
+11,District Of Columbia,1,District of Columbia,7.0
+12,Florida,11,Broward,15.0
+12,Florida,11,Broward,8.0
+12,Florida,31,Duval,6.0
+12,Florida,86,Miami-Dade,7.0
+12,Florida,103,Pinellas,15.0
+13,Georgia,121,Fulton,25.0
+15,Hawaii,3,Honolulu,6.0
+17,Illinois,31,Cook,19.0
+17,Illinois,143,Peoria,40.0
+18,Indiana,3,Allen,19.0
+18,Indiana,3,Allen,9.0
+18,Indiana,141,St. Joseph,20.0
+18,Indiana,167,Vigo,14.0
+20,Kansas,181,Sherman,0.0
+21,Kentucky,111,Jefferson,7.0
+21,Kentucky,145,McCracken,6.0
+27,Minnesota,53,Hennepin,13.0
+27,Minnesota,145,Stearns,22.0
+29,Missouri,189,Saint Louis,8.0
+29,Missouri,213,Taney,9.0
+31,Nebraska,55,Douglas,50.0
+32,Nevada,5,Douglas,8.0
+32,Nevada,31,Washoe,13.0
+34,New Jersey,3,Bergen,11.0
+34,New Jersey,7,Camden,8.0
+34,New Jersey,17,Hudson,30.0
+35,New Mexico,13,Dona Ana,11.0
+35,New Mexico,43,Sandoval,6.0
+37,North Carolina,37,Chatham,5.0
+37,North Carolina,51,Cumberland,10.0
+37,North Carolina,67,Forsyth,6.0
+37,North Carolina,67,Forsyth,6.0
+37,North Carolina,119,Mecklenburg,30.0
+39,Ohio,61,Hamilton,9.0
+39,Ohio,151,Stark,13.0
+40,Oklahoma,31,Comanche,13.0
+47,Tennessee,37,Davidson,18.0
+50,Vermont,7,Chittenden,3.0
+51,Virginia,59,Fairfax,6.0
+51,Virginia,700,Newport News City,11.0
+53,Washington,33,King,45.0
+53,Washington,33,King,35.0
+53,Washington,67,Thurston,32.0
+55,Wisconsin,79,Milwaukee,2.0
+55,Wisconsin,79,Milwaukee,7.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,13.0
+1,Alabama,101,Montgomery,0.0
+4,Arizona,13,Maricopa,30.0
+8,Colorado,69,Larimer,16.0
+11,District Of Columbia,1,District of Columbia,22.0
+11,District Of Columbia,1,District of Columbia,13.0
+12,Florida,11,Broward,15.0
+12,Florida,31,Duval,10.0
+12,Florida,103,Pinellas,20.0
+12,Florida,115,Sarasota,36.0
+15,Hawaii,3,Honolulu,11.0
+17,Illinois,31,Cook,10.0
+17,Illinois,31,Cook,11.0
+17,Illinois,119,Madison,17.0
+17,Illinois,119,Madison,14.0
+17,Illinois,197,Will,1.0
+21,Kentucky,111,Jefferson,16.0
+21,Kentucky,117,Kenton,17.0
+22,Louisiana,33,East Baton Rouge,32.0
+22,Louisiana,33,East Baton Rouge,49.0
+29,Missouri,95,Jackson,2.0
+32,Nevada,3,Clark,15.0
+32,Nevada,31,Washoe,32.0
+34,New Jersey,23,Middlesex,25.0
+34,New Jersey,39,Union,49.0
+35,New Mexico,1,Bernalillo,6.0
+36,New York,59,Nassau,23.0
+37,North Carolina,67,Forsyth,19.0
+37,North Carolina,71,Gaston,19.0
+37,North Carolina,183,Wake,32.0
+39,Ohio,49,Franklin,13.0
+39,Ohio,85,Lake,20.0
+39,Ohio,151,Stark,10.0
+49,Utah,35,Salt Lake,13.0
+49,Utah,49,Utah,40.0
+50,Vermont,7,Chittenden,49.0
+51,Virginia,59,Fairfax,8.0
+51,Virginia,760,Richmond City,8.0
+53,Washington,33,King,25.0
+53,Washington,33,King,13.0
+53,Washington,61,Snohomish,40.0
+53,Washington,63,Spokane,19.0
+54,West Virginia,69,Ohio,16.0
+55,Wisconsin,79,Milwaukee,3.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,14.0
+2,Alaska,90,Fairbanks North Star ,23.0
+4,Arizona,13,Maricopa,22.0
+4,Arizona,13,Maricopa,11.0
+8,Colorado,31,Denver,25.0
+8,Colorado,123,Weld,28.0
+8,Colorado,123,Weld,16.0
+8,Colorado,123,Weld,13.0
+12,Florida,115,Sarasota,15.0
+15,Hawaii,3,Honolulu,2.0
+15,Hawaii,3,Honolulu,13.0
+19,Iowa,113,Linn,9.0
+21,Kentucky,13,Bell,11.0
+21,Kentucky,111,Jefferson,10.0
+25,Massachusetts,13,Hampden,11.0
+26,Michigan,125,Oakland,11.0
+29,Missouri,189,Saint Louis,11.0
+29,Missouri,189,Saint Louis,6.0
+29,Missouri,189,Saint Louis,10.0
+29,Missouri,189,Saint Louis,6.0
+32,Nevada,3,Clark,6.0
+32,Nevada,3,Clark,19.0
+34,New Jersey,13,Essex,11.0
+34,New Jersey,13,Essex,13.0
+35,New Mexico,1,Bernalillo,6.0
+36,New York,55,Monroe,9.0
+37,North Carolina,67,Forsyth,9.0
+37,North Carolina,119,Mecklenburg,10.0
+37,North Carolina,119,Mecklenburg,36.0
+39,Ohio,35,Cuyahoga,8.0
+39,Ohio,113,Montgomery,6.0
+39,Ohio,151,Stark,7.0
+40,Oklahoma,31,Comanche,8.0
+40,Oklahoma,109,Oklahoma,30.0
+41,Oregon,29,Jackson,24.0
+41,Oregon,51,Multnomah,23.0
+47,Tennessee,37,Davidson,24.0
+47,Tennessee,37,Davidson,28.0
+47,Tennessee,157,Shelby,9.0
+47,Tennessee,157,Shelby,9.0
+49,Utah,35,Salt Lake,15.0
+50,Vermont,21,Rutland,15.0
+51,Virginia,510,Alexandria City,6.0
+51,Virginia,760,Richmond City,0.0
+53,Washington,11,Clark,15.0
+53,Washington,11,Clark,15.0
+53,Washington,63,Spokane,13.0
+55,Wisconsin,79,Milwaukee,5.0
+55,Wisconsin,79,Milwaukee,13.0
+55,Wisconsin,79,Milwaukee,10.0
+72,Puerto Rico,127,San Juan,18.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,36.0
+2,Alaska,20,Anchorage ,39.0
+4,Arizona,13,Maricopa,7.0
+4,Arizona,13,Maricopa,31.0
+8,Colorado,13,Boulder,7.0
+8,Colorado,31,Denver,30.0
+8,Colorado,41,El Paso,11.0
+12,Florida,57,Hillsborough,20.0
+12,Florida,57,Hillsborough,11.0
+12,Florida,95,Orange,17.0
+12,Florida,99,Palm Beach,17.0
+17,Illinois,31,Cook,10.0
+17,Illinois,197,Will,2.0
+18,Indiana,97,Marion,19.0
+19,Iowa,153,Polk,11.0
+24,Maryland,510,Baltimore (City),18.0
+25,Massachusetts,13,Hampden,7.0
+25,Massachusetts,25,Suffolk,24.0
+25,Massachusetts,27,Worcester,24.0
+27,Minnesota,123,Ramsey,10.0
+29,Missouri,77,Greene,11.0
+29,Missouri,95,Jackson,8.0
+29,Missouri,510,St. Louis City,15.0
+30,Montana,29,Flathead,28.0
+31,Nebraska,55,Douglas,3.0
+32,Nevada,3,Clark,16.0
+32,Nevada,3,Clark,28.0
+32,Nevada,5,Douglas,14.0
+32,Nevada,31,Washoe,7.0
+34,New Jersey,39,Union,35.0
+35,New Mexico,1,Bernalillo,10.0
+35,New Mexico,1,Bernalillo,26.0
+36,New York,29,Erie,5.0
+36,New York,55,Monroe,1.0
+36,New York,61,New York,13.0
+36,New York,63,Niagara,5.0
+37,North Carolina,63,Durham,16.0
+37,North Carolina,63,Durham,18.0
+39,Ohio,153,Summit,11.0
+40,Oklahoma,27,Cleveland,16.0
+40,Oklahoma,109,Oklahoma,13.0
+41,Oregon,17,Deschutes,34.0
+47,Tennessee,37,Davidson,10.0
+47,Tennessee,157,Shelby,15.0
+49,Utah,35,Salt Lake,25.0
+50,Vermont,7,Chittenden,3.0
+51,Virginia,59,Fairfax,9.0
+53,Washington,63,Spokane,20.0
+55,Wisconsin,79,Milwaukee,2.0
+55,Wisconsin,133,Waukesha,3.0
+72,Puerto Rico,127,San Juan,17.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,14.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,34.0
+1,Alabama,73,Jefferson,5.0
+4,Arizona,13,Maricopa,18.0
+4,Arizona,13,Maricopa,66.0
+4,Arizona,13,Maricopa,22.0
+4,Arizona,13,Maricopa,25.0
+8,Colorado,13,Boulder,16.0
+8,Colorado,13,Boulder,14.0
+8,Colorado,41,El Paso,5.0
+8,Colorado,41,El Paso,28.0
+12,Florida,11,Broward,8.0
+12,Florida,115,Sarasota,11.0
+12,Florida,115,Sarasota,39.0
+15,Hawaii,3,Honolulu,11.0
+15,Hawaii,3,Honolulu,14.0
+15,Hawaii,3,Honolulu,17.0
+17,Illinois,197,Will,3.0
+21,Kentucky,67,Fayette,1.0
+25,Massachusetts,27,Worcester,6.0
+26,Michigan,163,Wayne,7.0
+27,Minnesota,3,Anoka,5.0
+27,Minnesota,37,Dakota,3.0
+27,Minnesota,137,Saint Louis,9.0
+29,Missouri,95,Jackson,8.0
+29,Missouri,189,Saint Louis,7.0
+29,Missouri,189,Saint Louis,2.0
+31,Nebraska,55,Douglas,8.0
+31,Nebraska,109,Lancaster,14.0
+31,Nebraska,109,Lancaster,8.0
+32,Nevada,3,Clark,0.0
+32,Nevada,3,Clark,15.0
+32,Nevada,510,Carson City,13.0
+34,New Jersey,25,Monmouth,19.0
+35,New Mexico,1,Bernalillo,20.0
+35,New Mexico,13,Dona Ana,30.0
+36,New York,29,Erie,9.0
+36,New York,59,Nassau,6.0
+36,New York,61,New York,10.0
+36,New York,81,Queens,7.0
+37,North Carolina,119,Mecklenburg,13.0
+39,Ohio,81,Jefferson,13.0
+39,Ohio,113,Montgomery,5.0
+40,Oklahoma,31,Comanche,3.0
+40,Oklahoma,109,Oklahoma,9.0
+47,Tennessee,37,Davidson,8.0
+47,Tennessee,157,Shelby,3.0
+47,Tennessee,157,Shelby,23.0
+47,Tennessee,163,Sullivan,13.0
+49,Utah,57,Weber,7.0
+51,Virginia,59,Fairfax,3.0
+51,Virginia,710,Norfolk City,14.0
+53,Washington,33,King,25.0
+54,West Virginia,29,Hancock,11.0
+55,Wisconsin,133,Waukesha,2.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,17.0
+1,Alabama,73,Jefferson,17.0
+1,Alabama,73,Jefferson,6.0
+2,Alaska,20,Anchorage ,19.0
+2,Alaska,20,Anchorage ,18.0
+4,Arizona,13,Maricopa,22.0
+8,Colorado,13,Boulder,10.0
+8,Colorado,69,Larimer,18.0
+9,Connecticut,1,Fairfield,13.0
+9,Connecticut,3,Hartford,26.0
+12,Florida,11,Broward,11.0
+12,Florida,99,Palm Beach,3.0
+12,Florida,103,Pinellas,7.0
+12,Florida,115,Sarasota,22.0
+17,Illinois,31,Cook,7.0
+17,Illinois,31,Cook,24.0
+18,Indiana,3,Allen,11.0
+19,Iowa,153,Polk,18.0
+21,Kentucky,145,McCracken,0.0
+22,Louisiana,33,East Baton Rouge,9.0
+25,Massachusetts,13,Hampden,7.0
+25,Massachusetts,13,Hampden,8.0
+25,Massachusetts,27,Worcester,9.0
+26,Michigan,81,Kent,3.0
+26,Michigan,163,Wayne,11.0
+26,Michigan,163,Wayne,5.0
+29,Missouri,95,Jackson,6.0
+30,Montana,29,Flathead,9.0
+30,Montana,63,Missoula,11.0
+31,Nebraska,55,Douglas,18.0
+32,Nevada,3,Clark,0.0
+32,Nevada,3,Clark,0.0
+32,Nevada,3,Clark,18.0
+32,Nevada,31,Washoe,6.0
+32,Nevada,31,Washoe,24.0
+34,New Jersey,3,Bergen,24.0
+34,New Jersey,7,Camden,5.0
+34,New Jersey,7,Camden,2.0
+34,New Jersey,13,Essex,6.0
+34,New Jersey,23,Middlesex,11.0
+34,New Jersey,39,Union,15.0
+35,New Mexico,13,Dona Ana,14.0
+37,North Carolina,119,Mecklenburg,7.0
+39,Ohio,61,Hamilton,18.0
+39,Ohio,153,Summit,15.0
+40,Oklahoma,143,Tulsa,6.0
+41,Oregon,51,Multnomah,24.0
+41,Oregon,51,Multnomah,15.0
+49,Utah,35,Salt Lake,15.0
+49,Utah,49,Utah,14.0
+49,Utah,49,Utah,36.0
+51,Virginia,650,Hampton City,11.0
+51,Virginia,760,Richmond City,7.0
+51,Virginia,760,Richmond City,11.0
+53,Washington,33,King,15.0
+53,Washington,33,King,24.0
+53,Washington,33,King,26.0
+53,Washington,53,Pierce,14.0
+53,Washington,63,Spokane,16.0
+53,Washington,67,Thurston,18.0
+54,West Virginia,9,Brooke,7.0
+54,West Virginia,9,Brooke,3.0
+54,West Virginia,69,Ohio,7.0
+55,Wisconsin,101,Racine,7.0
+55,Wisconsin,133,Waukesha,3.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,10.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,33.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,6.0
+4,Arizona,13,Maricopa,45.0
+8,Colorado,31,Denver,19.0
+8,Colorado,59,Jefferson,8.0
+8,Colorado,77,Mesa,28.0
+9,Connecticut,1,Fairfield,8.0
+9,Connecticut,1,Fairfield,13.0
+9,Connecticut,3,Hartford,61.0
+9,Connecticut,9,New Haven,9.0
+11,District Of Columbia,1,District of Columbia,16.0
+11,District Of Columbia,1,District of Columbia,14.0
+12,Florida,11,Broward,8.0
+12,Florida,57,Hillsborough,7.0
+12,Florida,86,Miami-Dade,16.0
+12,Florida,99,Palm Beach,3.0
+15,Hawaii,3,Honolulu,3.0
+17,Illinois,31,Cook,32.0
+17,Illinois,167,Sangamon,10.0
+17,Illinois,201,Winnebago,17.0
+18,Indiana,97,Marion,16.0
+20,Kansas,107,Linn,10.0
+21,Kentucky,67,Fayette,3.0
+21,Kentucky,67,Fayette,1.0
+21,Kentucky,111,Jefferson,23.0
+21,Kentucky,111,Jefferson,20.0
+22,Louisiana,33,East Baton Rouge,50.0
+25,Massachusetts,13,Hampden,34.0
+25,Massachusetts,25,Suffolk,7.0
+26,Michigan,163,Wayne,9.0
+27,Minnesota,123,Ramsey,14.0
+27,Minnesota,137,Saint Louis,17.0
+27,Minnesota,145,Stearns,13.0
+29,Missouri,189,Saint Louis,3.0
+31,Nebraska,109,Lancaster,18.0
+32,Nevada,3,Clark,1.0
+32,Nevada,3,Clark,7.0
+32,Nevada,31,Washoe,10.0
+32,Nevada,31,Washoe,17.0
+32,Nevada,510,Carson City,11.0
+34,New Jersey,5,Burlington,8.0
+35,New Mexico,13,Dona Ana,3.0
+35,New Mexico,49,Santa Fe,10.0
+36,New York,47,Kings,7.0
+36,New York,59,Nassau,6.0
+36,New York,59,Nassau,7.0
+36,New York,67,Onondaga,16.0
+37,North Carolina,63,Durham,5.0
+37,North Carolina,67,Forsyth,18.0
+37,North Carolina,119,Mecklenburg,16.0
+37,North Carolina,183,Wake,8.0
+39,Ohio,35,Cuyahoga,13.0
+39,Ohio,113,Montgomery,6.0
+40,Oklahoma,143,Tulsa,9.0
+41,Oregon,29,Jackson,38.0
+41,Oregon,39,Lane,25.0
+41,Oregon,51,Multnomah,7.0
+47,Tennessee,157,Shelby,11.0
+47,Tennessee,157,Shelby,10.0
+51,Virginia,710,Norfolk City,14.0
+53,Washington,33,King,8.0
+53,Washington,63,Spokane,32.0
+55,Wisconsin,79,Milwaukee,7.0
+1,Alabama,73,Jefferson,17.0
+2,Alaska,90,Fairbanks North Star ,24.0
+2,Alaska,90,Fairbanks North Star ,19.0
+4,Arizona,19,Pima,7.0
+8,Colorado,31,Denver,9.0
+8,Colorado,59,Jefferson,3.0
+9,Connecticut,3,Hartford,18.0
+12,Florida,11,Broward,11.0
+12,Florida,11,Broward,8.0
+12,Florida,31,Duval,8.0
+12,Florida,31,Duval,6.0
+17,Illinois,163,Saint Clair,14.0
+21,Kentucky,19,Boyd,9.0
+24,Maryland,5,Baltimore,5.0
+25,Massachusetts,17,Middlesex,10.0
+25,Massachusetts,25,Suffolk,10.0
+26,Michigan,81,Kent,5.0
+27,Minnesota,37,Dakota,6.0
+27,Minnesota,123,Ramsey,3.0
+27,Minnesota,137,Saint Louis,8.0
+32,Nevada,3,Clark,7.0
+32,Nevada,3,Clark,0.0
+32,Nevada,31,Washoe,22.0
+34,New Jersey,17,Hudson,19.0
+35,New Mexico,1,Bernalillo,33.0
+35,New Mexico,1,Bernalillo,22.0
+35,New Mexico,1,Bernalillo,1.0
+36,New York,55,Monroe,15.0
+36,New York,67,Onondaga,8.0
+36,New York,81,Queens,9.0
+37,North Carolina,67,Forsyth,10.0
+37,North Carolina,67,Forsyth,13.0
+37,North Carolina,119,Mecklenburg,10.0
+39,Ohio,35,Cuyahoga,1.0
+39,Ohio,61,Hamilton,2.0
+39,Ohio,81,Jefferson,24.0
+39,Ohio,153,Summit,6.0
+39,Ohio,153,Summit,8.0
+41,Oregon,29,Jackson,24.0
+49,Utah,35,Salt Lake,8.0
+51,Virginia,59,Fairfax,6.0
+51,Virginia,510,Alexandria City,10.0
+51,Virginia,760,Richmond City,5.0
+51,Virginia,770,Roanoke City,10.0
+53,Washington,33,King,9.0
+54,West Virginia,29,Hancock,17.0
+72,Puerto Rico,127,San Juan,34.0
+72,Puerto Rico,127,San Juan,16.0
+72,Puerto Rico,127,San Juan,7.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,5.0
+2,Alaska,20,Anchorage ,15.0
+2,Alaska,90,Fairbanks North Star ,5.0
+4,Arizona,13,Maricopa,17.0
+4,Arizona,13,Maricopa,5.0
+4,Arizona,19,Pima,5.0
+8,Colorado,59,Jefferson,5.0
+8,Colorado,67,La Plata,5.0
+11,District Of Columbia,1,District of Columbia,31.0
+12,Florida,95,Orange,2.0
+12,Florida,115,Sarasota,20.0
+17,Illinois,143,Peoria,9.0
+17,Illinois,163,Saint Clair,9.0
+17,Illinois,201,Winnebago,8.0
+18,Indiana,63,Hendricks,10.0
+18,Indiana,97,Marion,9.0
+20,Kansas,173,Sedgwick,18.0
+25,Massachusetts,27,Worcester,9.0
+26,Michigan,125,Oakland,7.0
+27,Minnesota,3,Anoka,2.0
+27,Minnesota,145,Stearns,8.0
+29,Missouri,77,Greene,24.0
+30,Montana,13,Cascade,7.0
+30,Montana,29,Flathead,13.0
+32,Nevada,3,Clark,16.0
+32,Nevada,3,Clark,26.0
+32,Nevada,31,Washoe,25.0
+34,New Jersey,7,Camden,3.0
+34,New Jersey,7,Camden,3.0
+34,New Jersey,25,Monmouth,8.0
+35,New Mexico,1,Bernalillo,2.0
+39,Ohio,35,Cuyahoga,9.0
+40,Oklahoma,109,Oklahoma,7.0
+51,Virginia,770,Roanoke City,13.0
+53,Washington,33,King,11.0
+53,Washington,63,Spokane,16.0
+54,West Virginia,29,Hancock,3.0
+72,Puerto Rico,127,San Juan,17.0
+72,Puerto Rico,127,San Juan,19.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,60.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,28.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,0.0
+1,Alabama,73,Jefferson,0.0
+4,Arizona,13,Maricopa,25.0
+4,Arizona,13,Maricopa,8.0
+4,Arizona,13,Maricopa,8.0
+4,Arizona,19,Pima,11.0
+4,Arizona,19,Pima,22.0
+8,Colorado,1,Adams,14.0
+8,Colorado,1,Adams,11.0
+9,Connecticut,1,Fairfield,7.0
+12,Florida,115,Sarasota,15.0
+17,Illinois,31,Cook,24.0
+17,Illinois,201,Winnebago,13.0
+18,Indiana,63,Hendricks,8.0
+19,Iowa,113,Linn,1.0
+20,Kansas,173,Sedgwick,8.0
+25,Massachusetts,13,Hampden,8.0
+25,Massachusetts,17,Middlesex,8.0
+27,Minnesota,37,Dakota,3.0
+30,Montana,29,Flathead,16.0
+32,Nevada,31,Washoe,17.0
+32,Nevada,31,Washoe,5.0
+36,New York,55,Monroe,8.0
+37,North Carolina,67,Forsyth,5.0
+39,Ohio,81,Jefferson,10.0
+39,Ohio,151,Stark,7.0
+41,Oregon,39,Lane,8.0
+51,Virginia,59,Fairfax,8.0
+51,Virginia,760,Richmond City,6.0
+53,Washington,53,Pierce,3.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,13.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,8.0
+2,Alaska,20,Anchorage ,15.0
+4,Arizona,13,Maricopa,11.0
+4,Arizona,13,Maricopa,9.0
+4,Arizona,13,Maricopa,22.0
+4,Arizona,19,Pima,13.0
+8,Colorado,69,Larimer,7.0
+9,Connecticut,1,Fairfield,14.0
+9,Connecticut,3,Hartford,6.0
+9,Connecticut,9,New Haven,7.0
+11,District Of Columbia,1,District of Columbia,22.0
+12,Florida,31,Duval,16.0
+12,Florida,86,Miami-Dade,7.0
+12,Florida,86,Miami-Dade,18.0
+12,Florida,86,Miami-Dade,8.0
+12,Florida,95,Orange,10.0
+12,Florida,95,Orange,6.0
+12,Florida,103,Pinellas,7.0
+12,Florida,115,Sarasota,19.0
+13,Georgia,89,DeKalb,7.0
+13,Georgia,223,Paulding,5.0
+17,Illinois,167,Sangamon,10.0
+17,Illinois,201,Winnebago,6.0
+19,Iowa,153,Polk,9.0
+20,Kansas,107,Linn,2.0
+20,Kansas,173,Sedgwick,6.0
+25,Massachusetts,27,Worcester,6.0
+26,Michigan,163,Wayne,7.0
+27,Minnesota,3,Anoka,0.0
+27,Minnesota,37,Dakota,3.0
+27,Minnesota,123,Ramsey,15.0
+27,Minnesota,137,Saint Louis,2.0
+30,Montana,31,Gallatin,13.0
+30,Montana,111,Yellowstone,30.0
+32,Nevada,3,Clark,0.0
+32,Nevada,31,Washoe,6.0
+34,New Jersey,3,Bergen,5.0
+34,New Jersey,39,Union,7.0
+35,New Mexico,1,Bernalillo,9.0
+36,New York,1,Albany,7.0
+36,New York,5,Bronx,10.0
+36,New York,47,Kings,14.0
+37,North Carolina,81,Guilford,13.0
+39,Ohio,35,Cuyahoga,10.0
+39,Ohio,81,Jefferson,10.0
+39,Ohio,81,Jefferson,6.0
+39,Ohio,113,Montgomery,8.0
+40,Oklahoma,27,Cleveland,14.0
+51,Virginia,59,Fairfax,7.0
+72,Puerto Rico,127,San Juan,28.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,14.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,25.0
+39,Ohio,85,Lake,6.0
+30,Montana,31,Gallatin,6.0
+32,Nevada,31,Washoe,5.0
+72,Puerto Rico,127,San Juan,10.0
+17,Illinois,31,Cook,3.0
+32,Nevada,3,Clark,10.0
+32,Nevada,3,Clark,13.0
+34,New Jersey,39,Union,5.0
+51,Virginia,700,Newport News City,2.0
+4,Arizona,19,Pima,8.0
+1,Alabama,73,Jefferson,9.0
+34,New Jersey,39,Union,9.0
+25,Massachusetts,27,Worcester,3.0
+25,Massachusetts,27,Worcester,5.0
+32,Nevada,31,Washoe,9.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,2.0
+36,New York,101,Steuben,2.0
+25,Massachusetts,9,Essex,5.0
+36,New York,29,Erie,2.0
+4,Arizona,13,Maricopa,8.0
+20,Kansas,173,Sedgwick,7.0
+2,Alaska,20,Anchorage ,8.0
+51,Virginia,760,Richmond City,2.0
+51,Virginia,510,Alexandria City,8.0
+4,Arizona,13,Maricopa,22.0
+4,Arizona,13,Maricopa,11.0
+4,Arizona,13,Maricopa,7.0
+8,Colorado,1,Adams,7.0
+12,Florida,86,Miami-Dade,6.0
+12,Florida,86,Miami-Dade,17.0
+13,Georgia,89,DeKalb,2.0
+13,Georgia,223,Paulding,2.0
+17,Illinois,31,Cook,8.0
+17,Illinois,31,Cook,5.0
+18,Indiana,3,Allen,3.0
+19,Iowa,153,Polk,5.0
+20,Kansas,173,Sedgwick,3.0
+21,Kentucky,111,Jefferson,7.0
+24,Maryland,510,Baltimore (City),8.0
+25,Massachusetts,17,Middlesex,6.0
+30,Montana,111,Yellowstone,3.0
+32,Nevada,3,Clark,15.0
+32,Nevada,31,Washoe,8.0
+32,Nevada,31,Washoe,10.0
+32,Nevada,31,Washoe,3.0
+34,New Jersey,3,Bergen,8.0
+35,New Mexico,1,Bernalillo,15.0
+36,New York,1,Albany,5.0
+36,New York,61,New York,8.0
+37,North Carolina,183,Wake,19.0
+39,Ohio,49,Franklin,5.0
+39,Ohio,85,Lake,7.0
+39,Ohio,153,Summit,6.0
+47,Tennessee,157,Shelby,10.0
+51,Virginia,59,Fairfax,11.0
+51,Virginia,59,Fairfax,5.0
+51,Virginia,710,Norfolk City,3.0
+51,Virginia,760,Richmond City,1.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,1.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,3.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,14.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,8.0
+30,Montana,31,Gallatin,5.0
+2,Alaska,20,Anchorage ,11.0
+8,Colorado,31,Denver,7.0
+17,Illinois,31,Cook,2.0
+4,Arizona,19,Pima,6.0
+39,Ohio,85,Lake,2.0
+8,Colorado,1,Adams,5.0
+4,Arizona,19,Pima,8.0
+4,Arizona,19,Pima,3.0
+1,Alabama,73,Jefferson,0.0
+30,Montana,111,Yellowstone,8.0
+34,New Jersey,17,Hudson,6.0
+34,New Jersey,7,Camden,1.0
+20,Kansas,173,Sedgwick,6.0
+32,Nevada,31,Washoe,3.0
+32,Nevada,31,Washoe,13.0
+13,Georgia,89,DeKalb,8.0
+24,Maryland,23,Garrett,2.0
+1,Alabama,73,Jefferson,7.0
+29,Missouri,510,St. Louis City,3.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,8.0
+13,Georgia,223,Paulding,3.0
+29,Missouri,189,Saint Louis,3.0
+25,Massachusetts,27,Worcester,6.0
+8,Colorado,31,Denver,6.0
+8,Colorado,123,Weld,7.0
+39,Ohio,49,Franklin,3.0
+39,Ohio,153,Summit,3.0
+4,Arizona,19,Pima,3.0
+35,New Mexico,1,Bernalillo,9.0
+51,Virginia,13,Arlington,2.0
+51,Virginia,13,Arlington,2.0
+22,Louisiana,33,East Baton Rouge,10.0
+51,Virginia,810,Virginia Beach City,3.0
+51,Virginia,810,Virginia Beach City,5.0
+4,Arizona,13,Maricopa,5.0
+26,Michigan,81,Kent,3.0
+32,Nevada,5,Douglas,0.0
+1,Alabama,73,Jefferson,20.0
+4,Arizona,13,Maricopa,16.0
+40,Oklahoma,143,Tulsa,7.0
+32,Nevada,31,Washoe,2.0
+13,Georgia,89,DeKalb,10.0
+34,New Jersey,39,Union,3.0
+51,Virginia,87,Henrico,3.0
+51,Virginia,510,Alexandria City,0.0
+51,Virginia,510,Alexandria City,3.0
+12,Florida,11,Broward,5.0
+32,Nevada,31,Washoe,2.0
+18,Indiana,3,Allen,5.0
+1,Alabama,73,Jefferson,8.0
+1,Alabama,73,Jefferson,7.0
+4,Arizona,13,Maricopa,17.0
+4,Arizona,13,Maricopa,28.0
+4,Arizona,19,Pima,6.0
+8,Colorado,41,El Paso,7.0
+8,Colorado,59,Jefferson,3.0
+8,Colorado,69,Larimer,10.0
+11,District Of Columbia,1,District of Columbia,22.0
+12,Florida,57,Hillsborough,13.0
+12,Florida,57,Hillsborough,3.0
+12,Florida,86,Miami-Dade,11.0
+12,Florida,86,Miami-Dade,7.0
+12,Florida,99,Palm Beach,14.0
+13,Georgia,121,Fulton,9.0
+18,Indiana,63,Hendricks,9.0
+18,Indiana,63,Hendricks,2.0
+19,Iowa,153,Polk,3.0
+24,Maryland,5,Baltimore,6.0
+27,Minnesota,37,Dakota,1.0
+27,Minnesota,137,Saint Louis,10.0
+29,Missouri,95,Jackson,9.0
+29,Missouri,189,Saint Louis,7.0
+29,Missouri,510,St. Louis City,16.0
+30,Montana,29,Flathead,13.0
+30,Montana,31,Gallatin,2.0
+31,Nebraska,109,Lancaster,11.0
+32,Nevada,3,Clark,7.0
+32,Nevada,3,Clark,3.0
+39,Ohio,49,Franklin,6.0
+39,Ohio,61,Hamilton,13.0
+49,Utah,35,Salt Lake,16.0
+49,Utah,35,Salt Lake,13.0
+51,Virginia,650,Hampton City,8.0
+51,Virginia,770,Roanoke City,10.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,79.0
+80,Country Of Mexico,2,BAJA CALIFORNIA NORTE,18.0
+30,Montana,31,Gallatin,10.0
+17,Illinois,201,Winnebago,7.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,23.0
+39,Ohio,49,Franklin,8.0
+25,Massachusetts,13,Hampden,6.0
+17,Illinois,31,Cook,5.0
+27,Minnesota,53,Hennepin,0.0
+8,Colorado,77,Mesa,6.0
+4,Arizona,19,Pima,10.0
+37,North Carolina,183,Wake,2.0
+54,West Virginia,29,Hancock,3.0
+1,Alabama,73,Jefferson,7.0
+53,Washington,63,Spokane,13.0
+31,Nebraska,109,Lancaster,6.0
+1,Alabama,73,Jefferson,6.0
+32,Nevada,31,Washoe,2.0
+4,Arizona,13,Maricopa,13.0
+1,Alabama,73,Jefferson,6.0
+20,Kansas,209,Wyandotte,3.0
+32,Nevada,3,Clark,3.0
+24,Maryland,510,Baltimore (City),5.0
+36,New York,29,Erie,11.0
+50,Vermont,7,Chittenden,6.0
+29,Missouri,510,St. Louis City,3.0
+25,Massachusetts,27,Worcester,7.0
+17,Illinois,163,Saint Clair,6.0
+25,Massachusetts,9,Essex,2.0
+39,Ohio,35,Cuyahoga,22.0
+39,Ohio,85,Lake,6.0
+24,Maryland,5,Baltimore,2.0
+8,Colorado,41,El Paso,6.0
+36,New York,61,New York,5.0
+36,New York,61,New York,7.0
+32,Nevada,31,Washoe,23.0
+4,Arizona,19,Pima,5.0
+4,Arizona,13,Maricopa,11.0
+39,Ohio,135,Preble,3.0
+26,Michigan,163,Wayne,2.0
+26,Michigan,163,Wayne,5.0
+32,Nevada,31,Washoe,5.0
+26,Michigan,163,Wayne,1.0
+32,Nevada,31,Washoe,8.0
+8,Colorado,67,La Plata,1.0
+34,New Jersey,39,Union,5.0
+32,Nevada,31,Washoe,6.0
+11,District Of Columbia,1,District of Columbia,8.0
+55,Wisconsin,27,Dodge,2.0
+36,New York,29,Erie,2.0
+13,Georgia,223,Paulding,3.0
+25,Massachusetts,27,Worcester,8.0
+25,Massachusetts,25,Suffolk,3.0
+25,Massachusetts,9,Essex,2.0
+25,Massachusetts,13,Hampden,2.0
+2,Alaska,90,Fairbanks North Star ,6.0
+37,North Carolina,119,Mecklenburg,5.0
+51,Virginia,510,Alexandria City,3.0
+40,Oklahoma,143,Tulsa,3.0
+34,New Jersey,13,Essex,7.0
+4,Arizona,19,Pima,6.0
+80,Country Of Mexico,6,CHIHUAHUA STATE,3.0
+54,West Virginia,29,Hancock,3.0
+2,Alaska,90,Fairbanks North Star ,16.0
+9,Connecticut,1,Fairfield,5.0
+30,Montana,49,Lewis and Clark,1.0
+32,Nevada,31,Washoe,5.0
+12,Florida,86,Miami-Dade,2.0
+13,Georgia,89,DeKalb,2.0
+1,Alabama,73,Jefferson,3.0
+72,Puerto Rico,113,Ponce,5.0
+32,Nevada,31,Washoe,7.0
+36,New York,29,Erie,6.0
+18,Indiana,3,Allen,7.0
+36,New York,5,Bronx,3.0
+29,Missouri,510,St. Louis City,3.0
+30,Montana,31,Gallatin,2.0
+39,Ohio,49,Franklin,3.0
+39,Ohio,35,Cuyahoga,7.0
+32,Nevada,3,Clark,3.0
+35,New Mexico,1,Bernalillo,2.0
+22,Louisiana,33,East Baton Rouge,8.0
+26,Michigan,163,Wayne,2.0
+34,New Jersey,17,Hudson,6.0
+41,Oregon,51,Multnomah,2.0
+21,Kentucky,111,Jefferson,3.0
+21,Kentucky,111,Jefferson,3.0
+18,Indiana,163,Vanderburgh,5.0
+50,Vermont,21,Rutland,3.0
+26,Michigan,163,Wayne,3.0
+26,Michigan,163,Wayne,8.0
+12,Florida,86,Miami-Dade,3.0
+20,Kansas,209,Wyandotte,3.0
+12,Florida,31,Duval,6.0
+32,Nevada,31,Washoe,2.0
+54,West Virginia,29,Hancock,3.0
+41,Oregon,67,Washington,6.0
+24,Maryland,19,Dorchester,2.0
+40,Oklahoma,1,Adair,2.0
+17,Illinois,163,Saint Clair,5.0
+8,Colorado,31,Denver,13.0
+39,Ohio,61,Hamilton,6.0
+34,New Jersey,13,Essex,7.0
+47,Tennessee,157,Shelby,2.0
+22,Louisiana,33,East Baton Rouge,2.0
+22,Louisiana,33,East Baton Rouge,3.0
+12,Florida,86,Miami-Dade,3.0
+9,Connecticut,1,Fairfield,5.0
+26,Michigan,81,Kent,8.0
+1,Alabama,73,Jefferson,8.0
+9,Connecticut,3,Hartford,2.0
+9,Connecticut,3,Hartford,5.0
+50,Vermont,21,Rutland,6.0
+26,Michigan,163,Wayne,5.0
+47,Tennessee,9,Blount,2.0
+24,Maryland,27,Howard,6.0
+18,Indiana,97,Marion,3.0
+8,Colorado,67,La Plata,2.0
+13,Georgia,89,DeKalb,8.0
+1,Alabama,73,Jefferson,3.0
+20,Kansas,209,Wyandotte,3.0
+51,Virginia,87,Henrico,1.0
+36,New York,101,Steuben,1.0
+47,Tennessee,157,Shelby,3.0
+36,New York,1,Albany,2.0
+36,New York,1,Albany,3.0
+36,New York,29,Erie,1.0
+36,New York,5,Bronx,2.0
+18,Indiana,89,Lake,15.0
+29,Missouri,510,St. Louis City,7.0
+40,Oklahoma,1,Adair,2.0
+39,Ohio,13,Belmont,2.0
+39,Ohio,61,Hamilton,5.0
+32,Nevada,3,Clark,2.0
+12,Florida,95,Orange,3.0
+47,Tennessee,157,Shelby,2.0
+37,North Carolina,119,Mecklenburg,5.0
+53,Washington,33,King,3.0
+27,Minnesota,37,Dakota,6.0
+50,Vermont,7,Chittenden,5.0
+32,Nevada,31,Washoe,2.0
+9,Connecticut,9,New Haven,5.0
+39,Ohio,35,Cuyahoga,10.0
+26,Michigan,163,Wayne,3.0
+26,Michigan,163,Wayne,7.0
+29,Missouri,510,St. Louis City,3.0
+47,Tennessee,37,Davidson,5.0
+35,New Mexico,1,Bernalillo,2.0
+49,Utah,57,Weber,8.0
+34,New Jersey,17,Hudson,6.0
+17,Illinois,163,Saint Clair,3.0
+40,Oklahoma,109,Oklahoma,3.0
+36,New York,101,Steuben,2.0
+51,Virginia,650,Hampton City,5.0
+36,New York,55,Monroe,5.0
+47,Tennessee,157,Shelby,5.0
+18,Indiana,163,Vanderburgh,6.0
+39,Ohio,113,Montgomery,5.0
+4,Arizona,13,Maricopa,14.0
+4,Arizona,19,Pima,5.0
+37,North Carolina,183,Wake,5.0
+15,Hawaii,3,Honolulu,7.0
+20,Kansas,209,Wyandotte,2.0
+72,Puerto Rico,61,Guaynabo,5.0
+8,Colorado,67,La Plata,1.0
+49,Utah,49,Utah,0.0
+8,Colorado,31,Denver,3.0
+53,Washington,33,King,9.0
+40,Oklahoma,109,Oklahoma,9.0
+72,Puerto Rico,127,San Juan,13.0
+39,Ohio,135,Preble,2.0
+11,District Of Columbia,1,District of Columbia,5.0
+15,Hawaii,3,Honolulu,2.0
+49,Utah,35,Salt Lake,6.0
+50,Vermont,7,Chittenden,2.0
+18,Indiana,97,Marion,3.0
+4,Arizona,13,Maricopa,5.0
+29,Missouri,510,St. Louis City,5.0
+1,Alabama,73,Jefferson,5.0
+72,Puerto Rico,21,Bayamon,6.0
+40,Oklahoma,109,Oklahoma,9.0
+9,Connecticut,9,New Haven,2.0
+9,Connecticut,5,Litchfield,1.0
+12,Florida,11,Broward,7.0
+29,Missouri,510,St. Louis City,5.0
+11,District Of Columbia,1,District of Columbia,9.0
+8,Colorado,123,Weld,1.0
+13,Georgia,121,Fulton,7.0
+35,New Mexico,1,Bernalillo,6.0
+8,Colorado,31,Denver,3.0
+4,Arizona,13,Maricopa,0.0
+72,Puerto Rico,25,Caguas,7.0
+55,Wisconsin,79,Milwaukee,3.0
+55,Wisconsin,79,Milwaukee,3.0
+49,Utah,35,Salt Lake,3.0
+25,Massachusetts,25,Suffolk,5.0
+12,Florida,11,Broward,5.0
+12,Florida,11,Broward,8.0
+30,Montana,31,Gallatin,2.0
+4,Arizona,13,Maricopa,13.0
+4,Arizona,13,Maricopa,17.0
+22,Louisiana,33,East Baton Rouge,2.0
+22,Louisiana,33,East Baton Rouge,3.0
+72,Puerto Rico,113,Ponce,6.0
+35,New Mexico,1,Bernalillo,1.0
+2,Alaska,90,Fairbanks North Star ,2.0
+26,Michigan,163,Wayne,5.0
+39,Ohio,13,Belmont,3.0
+15,Hawaii,3,Honolulu,2.0
+27,Minnesota,37,Dakota,0.0
+54,West Virginia,9,Brooke,5.0
+12,Florida,86,Miami-Dade,5.0
+12,Florida,11,Broward,6.0
+29,Missouri,510,St. Louis City,3.0
+4,Arizona,13,Maricopa,7.0
+47,Tennessee,37,Davidson,5.0
+72,Puerto Rico,113,Ponce,14.0
+51,Virginia,650,Hampton City,3.0
+12,Florida,103,Pinellas,1.0
+47,Tennessee,157,Shelby,5.0
+27,Minnesota,53,Hennepin,1.0
+12,Florida,31,Duval,5.0
+39,Ohio,135,Preble,2.0
+4,Arizona,13,Maricopa,5.0
+53,Washington,33,King,6.0
+8,Colorado,31,Denver,5.0
+21,Kentucky,111,Jefferson,5.0
+25,Massachusetts,25,Suffolk,9.0
+8,Colorado,1,Adams,3.0
+8,Colorado,77,Mesa,2.0
+4,Arizona,13,Maricopa,1.0
+4,Arizona,13,Maricopa,5.0
+32,Nevada,31,Washoe,10.0
+19,Iowa,163,Scott,2.0
+19,Iowa,163,Scott,3.0
+26,Michigan,163,Wayne,3.0
+34,New Jersey,17,Hudson,10.0
+19,Iowa,153,Polk,3.0
+21,Kentucky,111,Jefferson,2.0
+18,Indiana,163,Vanderburgh,3.0
+26,Michigan,163,Wayne,5.0
+26,Michigan,163,Wayne,10.0
+26,Michigan,163,Wayne,6.0
+12,Florida,86,Miami-Dade,3.0
+24,Maryland,27,Howard,3.0
+18,Indiana,97,Marion,5.0
+31,Nebraska,55,Douglas,2.0
+1,Alabama,73,Jefferson,3.0
+36,New York,5,Bronx,7.0
+29,Missouri,510,St. Louis City,5.0
+36,New York,29,Erie,0.0
