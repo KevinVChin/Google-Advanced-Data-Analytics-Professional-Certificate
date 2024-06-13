@@ -10,7 +10,7 @@ Or go copy/paste URL into a browser:
 
 This repository contains labs, annotated notebooks, and capstone project for the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program. Each folder holds all the work for each of these courses as well as the certificate awarded after completion.
 
-The program is offered through a seven-course series which offers a comprehensive curriculum towards specific aspects of data analytics. These courses are:
+The program is offered through a seven-course series which contains a comprehensive curriculum towards specific aspects of data analytics. These courses are:
 
 1. [Foundations of Data Science](https://www.coursera.org/learn/foundations-of-data-science?specialization=google-advanced-data-analytics) - Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
 2. [Get Started with Python](https://www.coursera.org/learn/get-started-with-python?specialization=google-advanced-data-analytics) - Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
