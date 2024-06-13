@@ -1,5 +1,8 @@
 # Predicting Employee Turnover
 
+Click [here](https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb) to view the entire process including details for each step taken to complete the project. Or go copy/paste URL into a browser:
+[https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb](https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb)
+
 ### Overview
 
 The goal of this project was to create a predictive model for employee turnover through multiple logistic regression or through machine learning algorithms such as Decision Tree, Random Forest and eXtreme Gradient Boosting (XGBoost). This Google Advanced Data Analytics Professional Certificate capstone project utilized employee statistics from the fictional company Salifort Motors. The best model for this analysis was XGBoost with tuned hyperparameters. The metrics below are the metrics for the model's success on the test set:
