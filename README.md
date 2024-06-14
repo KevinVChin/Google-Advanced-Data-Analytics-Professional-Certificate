@@ -4,7 +4,7 @@ Certificate of completion - https://www.coursera.org/account/accomplishments/pro
 
 **Click [here](https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb) to view the capstone project, which includes detailed explantion for each step.**
 
-Or go copy/paste URL into a browser:  
+Or copy the URL below then paste it into a browser:  
 [https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb](https://github.com/KevinVChin/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/7-Google_Advanced_Data_Analytics_Capstone/Activity_Course7-Salifort_Motors_project_lab.ipynb)
 
 
